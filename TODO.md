@@ -127,3 +127,9 @@ README.
   ("Setengah jam", p0018); REPORT_passages.md lists them as a note.
 - luar negeri (p0043) keeps two links (outside + country), which read as a
   transparent compound.
+
+## Republish on engine 0e2bb0c
+- voice_alt bare roots include Sastrawi mis-stems (utus for memutuskan, urun
+  for menurunkan, unjuk for menunjukkan, tawar for menawarkan); now in `forms`
+  so never typed, but the links are wrong; fix the stemmer fallback with the
+  next data pass.

@@ -140,14 +140,15 @@ handles what the shared pipeline cannot guess:
   hand gloss teaches the compound also keeps its link (berterima in
   berterima kasih). Compounds built from their parts' meanings keep both
   links (hari ini "today").
-- **Inflected forms are alternatives.** Every written form of a word seen in
+- **Inflected forms locate the word.** Every written form of a word seen in
   the corpus with me-/di-/ber-/ter-/per-, -kan/-i, an enclitic (-nya, -lah,
-  -ku ...) or reduplication is listed as an alt: typing memakan for makan is
-  accepted, example sentences bold dimakan, and a gap blanks the whole
-  anak-anaknya. A form two words share, or one spelled like another word, is
-  nobody's alt. A verb root seen bare in under 20% of its uses is shown as
-  its me- verb, the root kept as the first alt (memeriksa, menghubungi,
-  mengemudi, menyanyi, menghapus).
+  -ku ...) or reduplication is listed as a form: example sentences bold
+  dimakan, and a gap blanks the whole anak-anaknya, but typed answers accept
+  the headword and spelling alternates only, not these inflected forms. A
+  form two words share, or one spelled like another word, is nobody's form.
+  A verb root seen bare in under 20% of its uses is shown as its me- verb,
+  the root kept as the first form (memeriksa, menghubungi, mengemudi,
+  menyanyi, menghapus).
 - **Object voice and other readings.** "yang pernah kamu alami" links
   mengalami (not alami "natural"); kena + a word links its verb reading
   (kena pukul "get hit", not pukul "o'clock"). A word the tagger reads with a
