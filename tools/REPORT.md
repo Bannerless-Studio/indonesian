@@ -19,7 +19,7 @@ Each subtitle / wordfreq surface form is split over the (lemma, POS) pairs it ta
 | subtitles (top 100,000 surfaces) | 4,794 | 95,206 |
 | wordfreq top 30,000 | 4,543 | 25,167 |
 
-Fallback lemmas whose POS could not be attached from another surface: 98,864. Clitic compounds resolved to the verb by suffix stripping: 0 distinct forms. Tokens with no dictionary-validated lemma (kept, never selected as words): 2,335.
+Fallback lemmas whose POS could not be attached from another surface: 98,866. Clitic compounds resolved to the verb by suffix stripping: 0 distinct forms. Tokens with no dictionary-validated lemma (kept, never selected as words): 2,338.
 
 ## Word-selection funnel
 
@@ -28,7 +28,7 @@ Candidate pool: 6,810 (lemma, POS) keys in blended-rank order, one POS per lemma
 | Exclusion | Count | Examples |
 |---|---|---|
 | no usable Wiktionary entry for corpus POS | 1,993 | banding, sang, tv, hei, yah, paksa, derita, siap, selanjutnya, sebanyak, ikuti, nikmat |
-| surface unseen in the tagged corpus (POS from dictionary only) | 842 | sepertinya, ha, dewa, jaring, wakil, serang, kim, tarung, go, sihir, de, sobat |
+| surface unseen in the tagged corpus (POS from dictionary only) | 843 | sepertinya, ha, dewa, jaring, wakil, serang, kim, tarung, go, sihir, de, sobat |
 | proper noun (corpus PROPN/capitalised majority) | 195 | tom, tuhan, in, la, al, bung, natal, david, mr, at, ma, city |
 | second POS entry without a distinct sense | 73 | semua, sendiri, depan, bersama, cinta, sebelum, kembali, coba, tetap, setelah, bahkan, jawab |
 | noun reading glossed only from another POS (not a noun) | 26 | asal, lawan, potong, izin, ganti, malu, ketinggalan, berikut, bekas, biji, final, potensi |
@@ -46,13 +46,13 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 1000, 'verb': 466, 'adj
 
 - Final sentences: **3,089**, 0 with audio (`https://tatoeba.org/audio/download/<audio_id>`).
 - Word coverage: 0 = 0, 1 = 9, 2 = 1991.
-- Candidate sentences (terminal punctuation, 3-14 tokens, content lemmas in pack/top-3000, >=1 link): 17,838. Rejected for a content lemma outside pack/top-3000: 2,643.
-- Primary word level of each sentence: {'A1': 694, 'A2': 1157, 'B1': 1238}.
+- Candidate sentences (terminal punctuation, 3-14 tokens, content lemmas in pack/top-3000, >=1 link): 17,840. Rejected for a content lemma outside pack/top-3000: 2,641.
+- Primary word level of each sentence: {'A1': 695, 'A2': 1156, 'B1': 1238}.
 - Token-length distribution of the final set:
 
 | tokens | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| sentences | 2 | 143 | 977 | 672 | 744 | 305 | 128 | 54 | 32 | 16 | 10 | 6 |
+| sentences | 2 | 142 | 980 | 672 | 742 | 305 | 128 | 54 | 32 | 16 | 10 | 6 |
 
 ## Top 100 by rank (lemma [pos] gloss)
 

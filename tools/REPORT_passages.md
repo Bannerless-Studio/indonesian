@@ -53,7 +53,7 @@ tokens of the passage text, the count the app shows (report only).
 | p0036 | A2 | Jatuh dari sepeda | 93 | 93 | 1.000 | 1.000 | - | B1: helm, pelan, untung |
 | p0037 | A2 | Kelas bahasa Inggris untuk orang dewasa | 112 | 112 | 1.000 | 1.000 | - | - |
 | p0038 | A2 | Surat dari Belanda | 110 | 108 | 1.000 | 1.000 | - | B1: museum, pedas, untung |
-| p0039 | A2 | Tujuh belas Agustus di desa | 111 | 109 | 1.000 | 1.000 | - | B1: bendera, kerupuk, upacara |
+| p0039 | A2 | Tujuh belas Agustus di desa | 111 | 109 | 1.000 | 1.000 | - | B1: kerupuk, upacara |
 | p0040 | A2 | Masalah dengan ponsel | 100 | 99 | 1.000 | 1.000 | - | B1: baterai, perbaikan |
 | p0041 | B1 | Keputusan yang sulit | 136 | 136 | 1.000 | 1.000 | - | - |
 | p0042 | B1 | Keluhan untuk hotel | 131 | 130 | 1.000 | 1.000 | - | - |

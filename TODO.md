@@ -129,7 +129,17 @@ README.
   transparent compound.
 
 ## Republish on engine 0e2bb0c
-- voice_alt bare roots include Sastrawi mis-stems (utus for memutuskan, urun
-  for menurunkan, unjuk for menunjukkan, tawar for menawarkan); now in `forms`
-  so never typed, but the links are wrong; fix the stemmer fallback with the
-  next data pass.
+- ~~voice_alt bare roots include Sastrawi mis-stems (utus for memutuskan, urun
+  for menurunkan, unjuk for menunjukkan, tawar for menawarkan).~~ **Fixed
+  2026-09-28** (vocab-engine branch engine-data-fixes; pack rebuilt, uncommitted,
+  for the republish wave). Cause was `me_roots` (Sastrawi is unused): it undid
+  mem-/men- to a vowel-initial root, which the nasal rule never produces; now
+  memutuskan/menurunkan/menunjukkan reach putus/turun/tunjuk. A stripped root
+  is a form only when it shares a sense with the me- verb, has no other POS,
+  or kaikki ties it to the verb ("alternative form of menerapkan", "active of
+  abaikan"): tawar, kembang, setubuh are no longer forms (their verb-tagged
+  tokens still link); abai, terap stay. Effect: tunjuk (w2013, a second "to show" card whose only
+  sentences were Tunjukkan...) folds into menunjukkan and leaves the pack;
+  berlayar (w1923) enters at B1; bendera B1 -> A2 (rank shift). Other ids
+  unchanged. The engine flagoff golden for indonesian must be recaptured at
+  the republish.
