@@ -169,5 +169,12 @@
     "strictFromLevel": "A1"
   },
   "showPron": false,
-  "hasLessons": false
+  "hasLessons": false,
+  "clitics": [
+    "nya",
+    "lah",
+    "kah",
+    "ku",
+    "mu"
+  ]
 }

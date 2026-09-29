@@ -143,3 +143,5 @@ README.
   berlayar (w1923) enters at B1; bendera B1 -> A2 (rank shift). Other ids
   unchanged. The engine flagoff golden for indonesian must be recaptured at
   the republish.
+
+Republish dbbf541: pack.json clitics [nya,lah,kah,ku,mu]; cloze blanks include attached clitics (17 gaps gained, 4 ada/adalah collisions guarded).
