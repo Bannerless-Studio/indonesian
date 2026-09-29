@@ -145,3 +145,5 @@ README.
   the republish.
 
 Republish dbbf541: pack.json clitics [nya,lah,kah,ku,mu]; cloze blanks include attached clitics (17 gaps gained, 4 ada/adalah collisions guarded).
+
+Republish 09e90bc: sentence spans (17426/17426 linked words placed, 0 unspanned WARN); inflected forms now cloze targets. words.json unchanged: no word level or gloss moved by stab narrowing.
