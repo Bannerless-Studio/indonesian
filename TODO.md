@@ -147,3 +147,4 @@ README.
 Republish dbbf541: pack.json clitics [nya,lah,kah,ku,mu]; cloze blanks include attached clitics (17 gaps gained, 4 ada/adalah collisions guarded).
 
 Republish 09e90bc: sentence spans (17426/17426 linked words placed, 0 unspanned WARN); inflected forms now cloze targets. words.json unchanged: no word level or gloss moved by stab narrowing.
+Republish aa00571: no word/gloss moved, pack byte-identical; deleted 9 dead gloss_overrides keys (habis|noun, hindar|verb, luncur|verb, penjahat|noun, sampaikan|verb, serah|verb, tarung|verb, tawar|verb, tunjuk|verb); 26 keys (e.g. meledak|verb) are consumed by the id lexicon hook, not dead; set-counter and no-voice planner fixes.
