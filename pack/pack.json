@@ -176,5 +176,47 @@
     "kah",
     "ku",
     "mu"
-  ]
+  ],
+  "dayAware": true,
+  "typedFrom": [
+    "written"
+  ],
+  "glossFocus": true,
+  "glossStyle": "primary",
+  "helpClose": true,
+  "readAnswerBlock": true,
+  "optsMix": true,
+  "pauseNew": true,
+  "listenQuestions": "all",
+  "readRotation": true,
+  "wordsBy": "typed",
+  "progressMap": {
+    "goals": [
+      {
+        "upTo": "A1",
+        "label": "survive a trip: greet, order, count, buy"
+      },
+      {
+        "upTo": "A2",
+        "label": "daily life: directions, simple chat, short notices"
+      },
+      {
+        "upTo": "B1",
+        "label": "follow a slow drama with subtitles"
+      }
+    ]
+  },
+  "pairs": true,
+  "freqTiers": true,
+  "progressView": "v2",
+  "appView": "v2",
+  "levelGate": 0.7,
+  "eta": {
+    "gain": [
+      0.00508733084838381,
+      0.003326723899077305,
+      0.0026950712265704714
+    ],
+    "known": 7.491961835634788
+  }
 }
