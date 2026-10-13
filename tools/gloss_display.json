@@ -5,9 +5,9 @@
  "hidangan|noun": "dish (of food), food served",
  "orang|noun": "person, people; (classifier for people); (orang tua) parents",
  "rumah|noun": "house, home; (rumah sakit) hospital; (rumah makan) restaurant",
- "kamar|noun": "room; (kamar mandi) bathroom; (kamar tidur) bedroom",
+ "kamar|noun": "room (private); (kamar mandi) bathroom; (kamar tidur) bedroom",
  "tempat|noun": "place; (tempat tidur) bed",
- "ruang|noun": "room, space; (ruang tamu) living room; (ruang tunggu) waiting room",
+ "ruang|noun": "space, room; (ruang tamu) living room; (ruang tunggu) waiting room",
  "air|noun": "water; (air minum) drinking water",
  "kereta|noun": "train; carriage; (kereta api) train",
  "masa|noun": "time, period, era; (masa depan) future",
@@ -23,5 +23,5 @@
  "sepak|noun": "kick; (sepak bola) football",
  "dasar|noun": "base, basis; primary (sekolah dasar = primary school)",
  "bakar|verb": "to burn; grilled (ikan bakar = grilled fish)",
- "jalan|noun": "road, street; way; (jalan-jalan) streets; to go for a walk"
+ "jalan|noun": "road, street; way; (jalan-jalan) to go for a walk"
 }
