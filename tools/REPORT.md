@@ -45,7 +45,7 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 1000, 'verb': 466, 'adj
 ## Sentences
 
 - Final sentences: **3,089**, 0 with audio (`https://tatoeba.org/audio/download/<audio_id>`).
-- Sentence ids (`tools/sentence_ids_v1.json`): 3,088 kept, 1 new (s3090), 1 retired.
+- Sentence ids (`tools/sentence_ids_v1.json`): 3,089 kept, 0 new, 1 retired.
 - Word coverage: 0 = 0, 1 = 9, 2 = 1991.
 - Candidate sentences (terminal punctuation, 3-14 tokens, content lemmas in pack/top-3000, >=1 link): 17,840. Rejected for a content lemma outside pack/top-3000: 2,641.
 - Primary word level of each sentence: {'A1': 695, 'A2': 1156, 'B1': 1238}.
