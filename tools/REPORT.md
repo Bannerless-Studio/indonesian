@@ -16,10 +16,10 @@ Each subtitle / wordfreq surface form is split over the (lemma, POS) pairs it ta
 
 | list | surfaces resolved from corpus | simplemma fallback |
 |---|---|---|
-| subtitles (top 100,000 surfaces) | 4,794 | 95,206 |
+| subtitles (top 100,000 surfaces) | 4,793 | 95,207 |
 | wordfreq top 30,000 | 4,543 | 25,167 |
 
-Fallback lemmas whose POS could not be attached from another surface: 98,866. Clitic compounds resolved to the verb by suffix stripping: 0 distinct forms. Tokens with no dictionary-validated lemma (kept, never selected as words): 2,338.
+Fallback lemmas whose POS could not be attached from another surface: 98,867. Clitic compounds resolved to the verb by suffix stripping: 0 distinct forms. Tokens with no dictionary-validated lemma (kept, never selected as words): 2,338.
 
 ## Word-selection funnel
 
