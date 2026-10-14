@@ -91,8 +91,9 @@ higher-level words each passage may use. Per-passage numbers are in
 | Example sentences | [Tatoeba](https://tatoeba.org) `ind_sentences_detailed.tsv` | CC-BY 2.0 FR | sentence text (contributor usernames in `pack/attribution.json`) |
 | Sentence translations | Tatoeba `eng_sentences.tsv` + `ind-eng_links.tsv` | CC-BY 2.0 FR | English translations |
 | Generated sentences | written for this pack, `tools/generated_sentences.tsv` | CC-BY-SA 4.0 | sentences for words Tatoeba covers with fewer than 2 usable sentences, marked `"src": "gen"` |
+| Story sentences | [Let's Read Asia](https://www.letsreadasia.org/) Indonesian books and [Bloom Library](https://bloomlibrary.org/) (non-Bible books), each with its English edition (authors, illustrators, publisher or copyright holder, licence and links per book in `pack/attribution.json`) | CC BY 4.0 (111 Let's Read Asia books, 5 Bloom); CC BY-SA 4.0 (3 Bloom books) | 770 sentences from 119 books marked `"src": "story"`; at most four examples per word |
 
-Licence: code MIT, pack data CC BY-SA 4.0, see LICENSE.
+Licence: code MIT, pack data CC BY-SA 4.0, see LICENSE. The CC BY 4.0 story sentences stay under CC BY 4.0 inside the pack (compatible with BY-SA); keep the credits. Changes made: text split into sentences, Indonesian and English realigned sentence by sentence, typographic quotes made plain; nothing else.
 
 Tatoeba has only 18 permissively licensed Indonesian audio clips, so the pack
 links none and relies on TTS. No licence is non-commercial. No graded

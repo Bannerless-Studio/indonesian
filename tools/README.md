@@ -21,6 +21,7 @@ and live in `engine/tools/packbuilder/langs/id.py`.
   after linking. Format documented in `engine/tools/packbuilder/README.md`.
 - `forced_a1.txt` — **hand-maintained.** A1 core list forced into A1 (closed sets like
   days/months/numbers live in code, in `langs/id.py`).
+- `bad_sentences.txt` — **hand-maintained.** Sentences dropped by exact text after two full hand audits of every story pair (2026-10-15, the second at strict level: English adding or dropping a clause, or a paraphrase that changes the action, is bad): 84 entries, incl. a few corpus sentences. Read by the base-spec hook; `check` reports dead entries. Story rows are built from `.cache/stories/id-lra/` (`tools/story_fetch/lra_fetch.py`, plus `--recover-offcount`) and `id-bloom/` (`bloom_fetch.py --lang id`) of the engine; `check.sh` and the story-aware build need the site venv on PATH (Sastrawi): `PATH=$PWD/.venv/bin:$PATH ./check.sh`.
 - `generated_sentences.tsv` — **hand-authored input.** 461 sentences written for this
   pack (word, Indonesian, English) where Tatoeba had fewer than two usable sentences;
   feeds the build like a source, tagged as `"src": "gen"` in the output. Editing it

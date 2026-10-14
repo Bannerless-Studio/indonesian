@@ -1,0 +1,172 @@
+# Story sentences dropped after two full hand audits of 2026-10-15 (Let's Read Asia + Bloom pairs; the second at strict level): the Indonesian and the English are not one sentence
+# (misaligned page, English adds or drops a clause or detail, paraphrase that changes the action, month or day mismatch, name mismatch, source typo).
+# One sentence per line exactly as the pack shows it; a line starting with "#" is a comment. Matching is on the text; the id is informational.
+
+# s3111 story pair audit
+Anak rusa tidak ikut makan bersama ibunya.
+# s3117 story pair audit
+Seorang bayi sedang bermain dengan kerincingannya.
+# s3126 story pair audit
+Sa mengamati Da minum.
+# s3149 story pair audit
+Dapatkah kau temukan BENTUK- BENTUK dan KUCING –KUCING lain?
+# s3151 story pair audit
+Ia sering kena marah Ramu, yang memandikannya.
+# s3171 story pair audit
+Apakah kau bisa membedakan beberapa macam aroma di sana?
+# s3192 story pair audit
+Apakah menurutmu mereka bisa bernyanyi?
+# s3227 story pair audit
+Mengapa dia dan anak-anak lelaki itu dibeda-bedakan?
+# s3230 story pair audit
+Ceritakan juga masa depanmu.
+# s3231 story pair audit
+Beberapa tahun sekali di bulan ini kita merayakan Meak Bochea.
+# s3232 story pair audit
+Hujan mulai turun di bulan ini.
+# s3233 story pair audit
+Di bulan ini para petani sibuk mengurusi sawah ladang mereka.
+# s3237 story pair audit
+Di tahun-tahun tertentu kita merayakan Festival Air di bulan ini.
+# s3254 story pair audit
+"Tunggu dan lihatlah nanti, Meenu sayang!"
+# s3258 story pair audit
+Semuanya terlihat begitu cantik!
+# s3260 story pair audit
+Beberapa dari kami pergi ke hutan dan mengumpulkan bunga-bungaan Tesu.
+# s3261 story pair audit
+Manu memasukkan bunga-bunga itu ke dalam air.
+# s3285 story pair audit
+Atau toko buku yang kecil?
+# s3306 story pair audit
+Malam itu, mimpi Tikus dingin dan basah.
+# s3322 story pair audit
+Bagaimana ini bisa terjadi?
+# s3351 story pair audit
+Si kucing berdesis, tepat ke arah jemuran.
+# s3396 story pair audit
+Tak ada restoran yang menawarkan hidangan lezat.
+# s3400 story pair audit
+Dia memegang tangan Kakak.
+# s3416 story pair audit
+"Aku beruntung. Lebih baik kepalaku tertimpa kelapa daripada tertimpa gajah" pikir Chhotu.
+# s3421 story pair audit
+Di langit tinggi, mereka bersarang di antara burung-burung; Menjaga kedamaian dan ketenangan.
+# s3430 story pair audit
+Mereka membersihkan luka di perutnya.
+# s3450 story pair audit
+Dia, anaknya tidak seharusnya berbuat begitu.
+# s3464 story pair audit
+Malam itu, bulan dan aku sama-sama memakai topi.
+# s3502 story pair audit
+burung-burung itu akan berkata.
+# s3509 story pair audit
+Kami bicara dengan penciuman kami.
+# s3537 story pair audit
+Ia mengeluarkan beberapa lembar uang dan mengambil dua botol.
+# s3562 story pair audit
+Berapa banyak kiranya yang dapat kau hitung?
+# s3567 story pair audit
+Sekarang, organisasi Lahpai Seng Raw telah membantu ribuan orang di seluruh Myanmar.
+# s3571 story pair audit
+Sinar matahari panas sekali sehingga kepala kami rasanya mau pecah.
+# s3580 story pair audit
+Maka jika kita memerlukan air untuk minum, kita harus melindungi Pegunungan Ghats.
+# s3607 story pair audit
+Pak Guru bertanya, "Apakah anjing dan kucing itu sama?"
+# s3608 story pair audit
+Pak Guru bertanya, "Apakah anjing dan kucing itu pintar?"
+# s3609 story pair audit
+Bopha menjawab, "Anjing dan kucing itu sangat pintar."
+# s3610 story pair audit
+Pak Guru bertanya, "Apakah anjing dan kucing bisa saling bercakap-cakap?"
+# s3654 story pair audit
+Guru Raju datang menyambut mereka. "Anak pintar!"
+# s3669 story pair audit
+"Save Our Seas"--Selamatkan Laut Kami, Miguel menjelaskan.
+# s3673 story pair audit
+Mainan itu milik Dira.
+# s3677 story pair audit
+Mengapa Dira harus main gajah mainan bersama adiknya?
+# s3678 story pair audit
+Tiba-tiba, seekor gajah yang sangat besar muncul!
+# s3686 story pair audit
+"Sudahlah! Aku mau pergi! Kamu tahu kan, ibuku tidak pernah mengajakku jalan-jalan."
+# s3718 story pair audit
+Betapa senangnya bisa terbang!
+# s3741 story pair audit
+Akarnya berada di dalam tanah.
+# s3742 story pair audit
+Batangnya berada di atas akar.
+# s3743 story pair audit
+Tiba-tiba, dia melihat bunga ungu besar yang aneh.
+# s3744 story pair audit
+"Tidak! Kita harus keluar dari sini," jawab Sophy.
+# s3746 story pair audit
+Ia berjalan kaki dengan langkah yang panjang.
+# s3764 story pair audit
+Kami lihat Kakak membantu.
+# s3765 story pair audit
+Aku lihat Paman membantu.
+# s3768 story pair audit
+"Boleh aku pakai sekarang?" tany Manu.
+# s3778 story pair audit
+Rumahku tinggi seperti pohon di sampingnya.
+# s3779 story pair audit
+Rumahku terbuat dari kayu dan memiliki satu lantai.
+# s3781 story pair audit
+Aku selalu bermain di dalamnya.
+# s3785 story pair audit
+Jenis rumah apa tempat orang-orang membuka toko jahit?
+# s3803 story pair audit
+bagaimana satu angka berkaitan dengan angka sebelumnya?
+# s3806 story pair audit
+Hari Senin, aku membantu Ibu.
+# s3807 story pair audit
+Hari Selasa, Ibu membantuku.
+# s3808 story pair audit
+Hari Rabu, aku membantu Ayah.
+# s3809 story pair audit
+Hari Kamis, Ayah membantuku.
+# s3859 story pair audit
+Kami senang mengunjungi jembatan bambu di kota Kampong Cham.
+# s3869 story pair audit
+Santi mempunyai dua kakak laki-laki.
+# s3870 story pair audit
+Santi dan kedua kakak laki-lakinya sedang berenang.
+# s3902 story pair audit
+Ia masuk ke dalam sungai dan berkecipak di air.
+# s3905 story pair audit
+"Lebih baik kamu kerjakan hal yang berguna."
+# s3914 story pair audit
+Dia mau mengemudikan kapal.
+# s3941 story pair audit
+Ah, aku mau mendengarkan tubuhku!
+# s3950 story pair audit
+Kau takkan bisa tidur dengan semua lebah itu dimana-mana!
+# s3956 story pair audit
+Ibu menunjukkan cara yang paling baik untuk mencuci tangan.
+# s3963 story pair audit
+Saya perlu buku baru.
+# s3964 story pair audit
+Mari pergi beli buku tulis.
+# s3967 story pair audit
+Jangan lupa mengambil uang kembalimu.
+# s3992 story pair audit
+"Saya bosan. Apa yang boleh saya lakukan hari ini ya?"
+# s4022 story pair audit
+Lautan menjadi asam Efek lain dari pemanasan suhu adalah air laut menjadi lebih asam.
+# s4044 story pair audit (English adds 'the food')
+Aku lihat Ibu membantu.
+# s3099 corpus: sejam is 'for an hour', English says hours
+Aku sudah menunggumu selama sejam.
+# s4048 story pair audit (English adds the balloons)
+Aku lihat Ayah membantu.
+# s4049 story pair audit (English adds the dress)
+Aku lihat Nenek membantu.
+# s4050 story pair audit (English adds the bicycle)
+Aku lihat Kakek membantu.
+# s3272 story pair audit (replacement round)
+Si kucing sedang duduk di kursi Ayah. Lihat!
+# s3672 story pair audit (replacement round)
+Kami semua akan membantu.

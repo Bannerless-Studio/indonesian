@@ -177,6 +177,13 @@
     "ku",
     "mu"
   ],
+  "credits": [
+    {
+      "name": "Let's Read Asia and Bloom Library stories (book authors, illustrators, translators and publishers)",
+      "licence": "CC BY 4.0 / CC BY-SA 4.0",
+      "url": "https://www.letsreadasia.org/"
+    }
+  ],
   "typedFrom": [
     "written"
   ],

@@ -116,7 +116,2368 @@
   "generated_sentences": {
     "source": "written for this pack (tools/generated_sentences.tsv), marked \"src\": \"gen\"",
     "licence": "CC-BY-SA-4.0",
-    "count": 461,
+    "count": 463,
     "audio": "none (TTS)"
+  },
+  "story_sentences": {
+    "source": "Let's Read Asia (Asia Foundation, books republished from Pratham Books/StoryWeaver, Book Dash, Room to Read and others) and Bloom Library (non-Bible books), Indonesian books with their English edition",
+    "licence": "CC-BY-4.0 (Let's Read Asia; Bloom cc-by) / CC-BY-SA-4.0 (Bloom cc-by-sa)",
+    "url": "https://www.letsreadasia.org/ ; https://bloomlibrary.org/",
+    "note": "Sentences are split out of the book text, Indonesian and English realigned sentence by sentence; typographic quotes became plain, nothing else was changed.",
+    "count": 770,
+    "stories": [
+      {
+        "id": "03951d8e-73a1-4f5f-8e0d-d39ac58ae9b9",
+        "source": "Let's Read Asia",
+        "title": "Jempol Anaya",
+        "english_title": "Anaya's Thumb",
+        "authors": [
+          "Natasha Sharma"
+        ],
+        "illustrators": [
+          "Ruchi Shah"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/03951d8e-73a1-4f5f-8e0d-d39ac58ae9b9",
+        "english_url": "https://www.letsreadasia.org/book/df645ad9-1a63-4675-b3f4-a6be2f5d4336",
+        "original_url": "https://storyweaver.org.in/stories/1002-anaya-s-thumb"
+      },
+      {
+        "id": "042f6859-f2e1-4010-9d02-bc74c6735f89",
+        "source": "Let's Read Asia",
+        "title": "Sang Kepala Desa",
+        "english_title": "The Village Leader",
+        "authors": [
+          "Alyson Curro"
+        ],
+        "illustrators": [
+          "Nan Hom Noon"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/042f6859-f2e1-4010-9d02-bc74c6735f89",
+        "english_url": "https://www.letsreadasia.org/book/ab814435-0828-48f8-b331-4f6f88e4eab4",
+        "original_url": "https://www.letsreadasia.org"
+      },
+      {
+        "id": "055a82ce-414c-4ad9-a12b-f0960ef8a98d",
+        "source": "Let's Read Asia",
+        "title": "Sa Melihat Da",
+        "english_title": "Sa Sees Da",
+        "authors": [
+          "All Children Reading - Cambodia"
+        ],
+        "illustrators": [
+          "Sorn Srey Nuch"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/055a82ce-414c-4ad9-a12b-f0960ef8a98d",
+        "english_url": "https://www.letsreadasia.org/book/defbe7bd-e8dc-451b-a487-77a3f89f65f2",
+        "original_url": "https://www.letsreadasia.org/",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "085cf388-f071-438f-8c42-2bf02ae685ba",
+        "source": "Let's Read Asia",
+        "title": "Hari-hariku",
+        "english_title": "Seven Days",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Hin Koemyean"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/085cf388-f071-438f-8c42-2bf02ae685ba",
+        "english_url": "https://www.letsreadasia.org/book/4dcfc5cb-525e-4987-959b-1eb4b990294d",
+        "original_url": "https://www.letsreadasia.org/",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "0ac3a8dc-ca3f-4277-abe1-12807d720379",
+        "source": "Let's Read Asia",
+        "title": "Ayah Sedang Apa?",
+        "english_title": "What is Daddy Doing?",
+        "authors": [
+          "All Children Reading - Cambodia"
+        ],
+        "illustrators": [
+          "Yam Luy Chhuy"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/0ac3a8dc-ca3f-4277-abe1-12807d720379",
+        "english_url": "https://www.letsreadasia.org/book/6557b157-71cd-4aa7-9d4a-c3d23d671b7c",
+        "original_url": "https://www.letsreadasia.org/",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "0ca7b890-9797-4995-a159-eefe70a34443",
+        "source": "Let's Read Asia",
+        "title": "Bheema si Penidur",
+        "english_title": "Bheema, the Sleepyhead",
+        "authors": [
+          "Kiran Kasturia"
+        ],
+        "illustrators": [
+          "Shweta Mohapatra"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/0ca7b890-9797-4995-a159-eefe70a34443",
+        "english_url": "https://www.letsreadasia.org/book/084ecbad-3ec0-4378-8bea-6831abfa8a33",
+        "original_url": "https://storyweaver.org.in/"
+      },
+      {
+        "id": "0da84423-8961-4c3e-a097-330a77123f8f",
+        "source": "Let's Read Asia",
+        "title": "Ke Mana Perginya Pikiranku?",
+        "english_title": "Where Do My Thoughts Go?",
+        "authors": [
+          "Sherein Bansal"
+        ],
+        "illustrators": [
+          "Priyanka Kumar"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/0da84423-8961-4c3e-a097-330a77123f8f",
+        "english_url": "https://www.letsreadasia.org/book/8d6d2dfd-3184-4ade-a791-2b40d3f1eeee",
+        "original_url": "https://storyweaver.org.in/stories/26021-where-do-my-thoughts-go"
+      },
+      {
+        "id": "0db56f4f-5131-4999-b3d5-5db77a39b390",
+        "source": "Let's Read Asia",
+        "title": "Sang Penyembuh",
+        "english_title": "The Healer",
+        "authors": [
+          "Alyson Curro"
+        ],
+        "illustrators": [
+          "Nan Hom Noon"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/0db56f4f-5131-4999-b3d5-5db77a39b390",
+        "english_url": "https://www.letsreadasia.org/book/e8086c85-633d-4371-bb25-16c4988e916e",
+        "original_url": "https://www.letsreadasia.org"
+      },
+      {
+        "id": "0fb0a11e-e2eb-40bb-bde4-1a64223d6c2b",
+        "source": "Let's Read Asia",
+        "title": "Tamu di Sekolah",
+        "english_title": "The Visitors",
+        "authors": [
+          "Tandi Jackson"
+        ],
+        "illustrators": [
+          "Michael Mape"
+        ],
+        "publisher": [
+          "Bilum Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/0fb0a11e-e2eb-40bb-bde4-1a64223d6c2b",
+        "english_url": "https://www.letsreadasia.org/book/de7dc636-cbd3-4027-bb52-3ba609d6683a",
+        "original_url": "http://bilumbooks.com/"
+      },
+      {
+        "id": "162bee9c-9e52-4082-941f-6f0069d911bb",
+        "source": "Let's Read Asia",
+        "title": "Raja Mkolokolo",
+        "english_title": "The King of Mkolokolo",
+        "authors": [
+          "Ntombikayise Malaza"
+        ],
+        "illustrators": [
+          "Vusi Malindi"
+        ],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/162bee9c-9e52-4082-941f-6f0069d911bb",
+        "english_url": "https://www.letsreadasia.org/book/f2917dc3-8b5f-4c15-b9e6-5d8b4549aafa",
+        "original_url": "https://storyweaver.org.in/stories/34325-inkhosi-yase-mkolokolo"
+      },
+      {
+        "id": "16e72679-c013-4aff-ad68-0fdfc73ce5e4",
+        "source": "Let's Read Asia",
+        "title": "Bernyanyi di Tengah Hujan",
+        "english_title": "Sing in the Rain",
+        "authors": [
+          "Mala Kumar",
+          "Manisha Chaudhry",
+          "Lea Shaver"
+        ],
+        "illustrators": [
+          "Rajiv Eipe"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/16e72679-c013-4aff-ad68-0fdfc73ce5e4",
+        "english_url": "https://www.letsreadasia.org/book/a9c8c199-0bf4-4a87-b20f-e93b77b6bac1",
+        "original_url": "https://storyweaver.org.in/stories/15176-sing-in-the-rain"
+      },
+      {
+        "id": "17d05530-ca9d-4a57-b54b-bcc577ad6309",
+        "source": "Let's Read Asia",
+        "title": "Kancing Siapa ini?",
+        "english_title": "Whose Button Is This?",
+        "authors": [
+          "Paul Kennedy"
+        ],
+        "illustrators": [
+          "James Woolley"
+        ],
+        "publisher": [
+          "Book Dash"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/17d05530-ca9d-4a57-b54b-bcc577ad6309",
+        "english_url": "https://www.letsreadasia.org/book/f5fb870a-489b-4ec8-9f26-b6cb4d9cf922",
+        "original_url": "http://bookdash.org/whose-button-is-this-by-james-woolley-paul-kennedy-and-louise-gale/"
+      },
+      {
+        "id": "17d9fe5c-af49-499c-b12f-1d186a30ab2e",
+        "source": "Let's Read Asia",
+        "title": "Ayo Terbang",
+        "english_title": "Let's Fly",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Sorn Srey Nuch"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/17d9fe5c-af49-499c-b12f-1d186a30ab2e",
+        "english_url": "https://www.letsreadasia.org/book/a0e693d5-b696-4bea-82b5-8f19671da433",
+        "original_url": "https://www.letsreadasia.org",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "18fe78e1-fc6b-4b31-aef5-168f491c4a9f",
+        "source": "Let's Read Asia",
+        "title": "Nenekku Jago Lempar Bola",
+        "english_title": "My Juggling Granny",
+        "authors": [
+          "Mala Kumar",
+          "Manisha Chaudhry"
+        ],
+        "illustrators": [
+          "Niloufer Wadia"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/18fe78e1-fc6b-4b31-aef5-168f491c4a9f",
+        "english_url": "https://www.letsreadasia.org/book/969a6f6b-339d-47cc-8d29-3adbd879b2e3",
+        "original_url": "https://storyweaver.org.in/stories/1278-my-juggling-granny"
+      },
+      {
+        "id": "1964c914-a56d-4d2c-819b-5b33e5a5abc8",
+        "source": "Let's Read Asia",
+        "title": "Semua Gara-Gara Si Kucing!",
+        "english_title": "It's All the Cat's Fault!",
+        "authors": [
+          "Anushka Ravishankar"
+        ],
+        "illustrators": [
+          "Priya Kuriyan"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/1964c914-a56d-4d2c-819b-5b33e5a5abc8",
+        "english_url": "https://www.letsreadasia.org/book/e656833a-587d-4bb9-841e-c36fded011df",
+        "original_url": "https://storyweaver.org.in/stories/1281-it-s-all-the-cat-s-fault"
+      },
+      {
+        "id": "19a1dfe7-6308-4d8d-84bb-cb81820c23f7",
+        "source": "Let's Read Asia",
+        "title": "Sang Biksuni",
+        "english_title": "The Nun",
+        "authors": [
+          "Alyson Curro"
+        ],
+        "illustrators": [],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/19a1dfe7-6308-4d8d-84bb-cb81820c23f7",
+        "english_url": "https://www.letsreadasia.org/book/98e75187-1775-46a2-a459-0af6689b6cf9",
+        "original_url": "https://www.letsreadasia.org"
+      },
+      {
+        "id": "19b61366-68f6-4068-84c0-a447c155caae",
+        "source": "Let's Read Asia",
+        "title": "Berapa kakinya?",
+        "english_title": "Let's Count Legs",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Meas SovannaraI"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/19b61366-68f6-4068-84c0-a447c155caae",
+        "english_url": "https://www.letsreadasia.org/book/3137f9b1-a8b4-4b5c-8f7b-a7ee03ea9505",
+        "original_url": "https://www.letsreadasia.org",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "1dff4099-79b8-498e-99e9-3a8e00fb0824",
+        "source": "Let's Read Asia",
+        "title": "Rencana Besar si Semut Kecil",
+        "english_title": "Little Ant's Big Plan",
+        "authors": [
+          "Candice Dingwall",
+          "Telri Stoop"
+        ],
+        "illustrators": [
+          "Steven McKimmie"
+        ],
+        "publisher": [
+          "Book Dash"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/1dff4099-79b8-498e-99e9-3a8e00fb0824",
+        "english_url": "https://www.letsreadasia.org/book/b07254a9-7e71-4b9e-8456-2f2492ef3cd1",
+        "original_url": "http://bookdash.org/"
+      },
+      {
+        "id": "20de77e6-0d20-4d56-8765-2f3f02bc1ce8",
+        "source": "Let's Read Asia",
+        "title": "Semuanya Tampak Baru!",
+        "english_title": "Everything looks new!",
+        "authors": [
+          "Mala Kumar",
+          "Manisha Chaudhry"
+        ],
+        "illustrators": [
+          "Priya Kuriyan"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/20de77e6-0d20-4d56-8765-2f3f02bc1ce8",
+        "english_url": "https://www.letsreadasia.org/book/166348ab-69e3-44f0-bfa0-91bb5bc695c6",
+        "original_url": "https://storyweaver.org.in/stories/71-everything-looks-new"
+      },
+      {
+        "id": "29b22ea2-b831-4635-ae39-f4af8855f7b9",
+        "source": "Let's Read Asia",
+        "title": "Bermain Kertas",
+        "english_title": "Paper Play",
+        "authors": [
+          "Mala Kumar"
+        ],
+        "illustrators": [
+          "Ruchi Shah"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/29b22ea2-b831-4635-ae39-f4af8855f7b9",
+        "english_url": "https://www.letsreadasia.org/book/6c0db406-2d66-4055-9c18-d42bff9ed0d1",
+        "original_url": "https://storyweaver.org.in/stories/156-paper-play"
+      },
+      {
+        "id": "2a5d19a2-e55b-4ebe-8c53-7cef8e5dd8f6",
+        "source": "Let's Read Asia",
+        "title": "Kak, ke Mana Perginya Matahari Ketika Malam Tiba?",
+        "english_title": "Sister! Sister! Where Does the Sun Go at Night?",
+        "authors": [
+          "Roopa Pai"
+        ],
+        "illustrators": [
+          "Greystroke"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/2a5d19a2-e55b-4ebe-8c53-7cef8e5dd8f6",
+        "english_url": "https://www.letsreadasia.org/book/e6b330ab-0658-4b8e-b8e3-0efa7e71d125",
+        "original_url": "https://storyweaver.org.in/stories/67-sister-sister-where-does-the-sun-go-at-night"
+      },
+      {
+        "id": "2b0e6e5e-1fc8-4e39-9e0f-6ff78919116c",
+        "source": "Let's Read Asia",
+        "title": "Drake si Naga Ajaib",
+        "english_title": "Drake the Magical Dragon",
+        "authors": [
+          "Created collaboratively at the mEducational Alliance"
+        ],
+        "illustrators": [
+          "Priya Kuriyan",
+          "Vinayak Varma"
+        ],
+        "publisher": [
+          "StoryWeaver Community"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/2b0e6e5e-1fc8-4e39-9e0f-6ff78919116c",
+        "english_url": "https://www.letsreadasia.org/book/0f67f88d-9c15-4819-a313-a38567ff95ec",
+        "original_url": "https://storyweaver.org.in/stories/9263-drake-the-magical-dragon"
+      },
+      {
+        "id": "2bd1c724-873b-44e6-94d0-503da7da533b",
+        "source": "Let's Read Asia",
+        "title": "Narat Tahu Bagaimana Caranya",
+        "english_title": "Narat Knows How",
+        "authors": [
+          "All Children Reading - Cambodia"
+        ],
+        "illustrators": [
+          "Mann Malen"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/2bd1c724-873b-44e6-94d0-503da7da533b",
+        "english_url": "https://www.letsreadasia.org/book/7c7029d8-fd2a-4651-82b4-81af8942eb1f",
+        "original_url": "https://www.letsreadasia.org/",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "2c23c101-f0f7-4c1f-bbde-baa5bbbf10d7",
+        "source": "Let's Read Asia",
+        "title": "Hujan, Hujan",
+        "english_title": "Rain, Rain",
+        "authors": [
+          "Sanjiv Jaiswal 'Sanjay'"
+        ],
+        "illustrators": [
+          "Ajit Narayan"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/2c23c101-f0f7-4c1f-bbde-baa5bbbf10d7",
+        "english_url": "https://www.letsreadasia.org/book/40797f85-7ac1-4bc1-a9d3-281e56564459",
+        "original_url": "https://storyweaver.org.in/stories/696-rain-rain"
+      },
+      {
+        "id": "2ea9aa48-9ad8-485e-8277-dcef7775bdfe",
+        "source": "Let's Read Asia",
+        "title": "Membeli Buku",
+        "english_title": "Going to Buy a Book",
+        "authors": [
+          "Rukmini Banerji"
+        ],
+        "illustrators": [
+          "Santosh Pujari"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/2ea9aa48-9ad8-485e-8277-dcef7775bdfe",
+        "english_url": "https://www.letsreadasia.org/book/2cc14e66-3103-4677-8c21-f9a63dd83874",
+        "original_url": "https://storyweaver.org.in/stories/758-going-to-buy-a-book"
+      },
+      {
+        "id": "2f4dd5ce-4972-4014-9f54-7147abb94bed",
+        "source": "Let's Read Asia",
+        "title": "Kacau Balau",
+        "english_title": "Topsy Turvy",
+        "authors": [
+          "Rohini Nilekani"
+        ],
+        "illustrators": [
+          "Angie",
+          "Upesh"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/2f4dd5ce-4972-4014-9f54-7147abb94bed",
+        "english_url": "https://www.letsreadasia.org/book/a96c323a-3590-4169-a0a5-b6e9ba224b40",
+        "original_url": "https://storyweaver.org.in/stories/957-topsy-turvy"
+      },
+      {
+        "id": "31f3ed0e-45c4-424b-8bf7-227485b9279f",
+        "source": "Let's Read Asia",
+        "title": "Mesin Keren Nenek",
+        "english_title": "Ammachi's Amazing Machines",
+        "authors": [
+          "Rajiv Eipe"
+        ],
+        "illustrators": [
+          "Rajiv Eipe"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/31f3ed0e-45c4-424b-8bf7-227485b9279f",
+        "english_url": "https://www.letsreadasia.org/book/3bf766f3-8043-4ee0-80e0-557ca1fc733f",
+        "original_url": "https://storyweaver.org.in/stories/10118-ammachi-s-amazing-machines"
+      },
+      {
+        "id": "37f82797-45bd-4a6a-b605-568c129e4998",
+        "source": "Let's Read Asia",
+        "title": "Kak, Mengapa Benda-Benda Tidak Jatuh ke Atas?",
+        "english_title": "Sister, Sister, Why Don't Things Fall Up?",
+        "authors": [
+          "Roopa Pai"
+        ],
+        "illustrators": [
+          "Greystroke"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/37f82797-45bd-4a6a-b605-568c129e4998",
+        "english_url": "https://www.letsreadasia.org/book/40976079-a32d-490e-b2bf-1079a8907301",
+        "original_url": "https://storyweaver.org.in/stories/188-sister-sister-why-don-t-things-fall-up"
+      },
+      {
+        "id": "3d81ef55-2ce6-4512-a530-5bcc46930a26",
+        "source": "Let's Read Asia",
+        "title": "Paman Som",
+        "english_title": "This is Uncle Som",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Meth Phearum"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/3d81ef55-2ce6-4512-a530-5bcc46930a26",
+        "english_url": "https://www.letsreadasia.org/book/4a708852-5e41-43fb-95aa-f38231ee8225",
+        "original_url": "https://www.letsreadasia.org",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "3e9d5a91-a9f5-447b-b175-bafb3efbca6d",
+        "source": "Let's Read Asia",
+        "title": "Lory Dory",
+        "english_title": "Lory Dory",
+        "authors": [
+          "Brendon O’Neill"
+        ],
+        "illustrators": [
+          "Sonia Dearling"
+        ],
+        "publisher": [
+          "Book Dash"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/3e9d5a91-a9f5-447b-b175-bafb3efbca6d",
+        "english_url": "https://www.letsreadasia.org/book/485fa27b-712a-4488-9ed2-4de2daacef2c",
+        "original_url": "http://bookdash.org/lory-dory-by-sonia-dearling-brendon-oneill-and-arthur-attwell/"
+      },
+      {
+        "id": "3faadda9-8a38-4cdd-869e-bdd71f08f630",
+        "source": "Let's Read Asia",
+        "title": "Bagaimana-Jika?",
+        "english_title": "What if...?",
+        "authors": [
+          "Cristy Zinn"
+        ],
+        "illustrators": [
+          "Mary-Anne Hampton"
+        ],
+        "publisher": [
+          "Book Dash"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/3faadda9-8a38-4cdd-869e-bdd71f08f630",
+        "english_url": "https://www.letsreadasia.org/book/7a53c5fc-61eb-48e7-bafa-d390c946b38c",
+        "original_url": "http://bookdash.org/what-if-by-cristy-zinn-mary-anne-hampton-and-julie-smith-belton/"
+      },
+      {
+        "id": "417ce9d1-4869-4005-af1d-1ec4f1bf6581",
+        "source": "Let's Read Asia",
+        "title": "Upacara Baci Untuk Nenek",
+        "english_title": "Baci Ceremony for Grandma",
+        "authors": [
+          "Sommoa Panyavong"
+        ],
+        "illustrators": [
+          "Vravong Phrachanh"
+        ],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/417ce9d1-4869-4005-af1d-1ec4f1bf6581",
+        "english_url": "https://www.letsreadasia.org/book/7b90846e-9b75-4b61-9a00-edaed0f99908",
+        "origin_language": "ລາວ"
+      },
+      {
+        "id": "42a9db03-269f-4e49-96c3-e00923260dce",
+        "source": "Let's Read Asia",
+        "title": "Ketemu!",
+        "english_title": "I Spy!",
+        "authors": [
+          "Samvida Venkatesh"
+        ],
+        "illustrators": [
+          "Sandhya Prabhat"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/42a9db03-269f-4e49-96c3-e00923260dce",
+        "english_url": "https://www.letsreadasia.org/book/ac34d957-64be-4f18-9012-b2de972fcb6c",
+        "original_url": "https://storyweaver.org.in/stories/10823-i-spy"
+      },
+      {
+        "id": "43570c67-1f42-4d13-b2cf-0de527d76ac6",
+        "source": "Let's Read Asia",
+        "title": "Berjalan-jalan di Taman",
+        "english_title": "Walking in the Garden",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "El Huyno"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/43570c67-1f42-4d13-b2cf-0de527d76ac6",
+        "english_url": "https://www.letsreadasia.org/book/acc0a4f2-70d8-4b40-9c37-da0ade9c1bf0",
+        "original_url": "https://www.letsreadasia.org",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "44505f15-37e9-4057-a4c1-31a7bdfd3618",
+        "source": "Let's Read Asia",
+        "title": "Di Dalam World Wide Web",
+        "english_title": "Inside the World Wide Web",
+        "authors": [
+          "Roopa Pai"
+        ],
+        "illustrators": [
+          "Delwyn Remedios"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/44505f15-37e9-4057-a4c1-31a7bdfd3618",
+        "english_url": "https://www.letsreadasia.org/book/d80f6fa5-2144-4689-ab15-2776d1f199e3",
+        "original_url": "https://storyweaver.org.in/stories/5205-inside-the-world-wide-web"
+      },
+      {
+        "id": "45edb5f1-5b1f-4ddf-8982-ac4de293fa99",
+        "source": "Let's Read Asia",
+        "title": "Gagak Berisik",
+        "english_title": "Noisy Crows",
+        "authors": [
+          "Kanchan Bannerjee"
+        ],
+        "illustrators": [
+          "Deepa Balsavar"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/45edb5f1-5b1f-4ddf-8982-ac4de293fa99",
+        "english_url": "https://www.letsreadasia.org/book/f25a3120-e999-45b4-8355-5e914d5ece10",
+        "original_url": "https://storyweaver.org.in/stories/1062-noisy-crows"
+      },
+      {
+        "id": "474b3912-7357-4c12-82a7-e4d1c15dc14c",
+        "source": "Let's Read Asia",
+        "title": "Kota Aneka Kisah",
+        "english_title": "City of Stories",
+        "authors": [
+          "Rukmini Banerji"
+        ],
+        "illustrators": [
+          "Bindia Thapar"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/474b3912-7357-4c12-82a7-e4d1c15dc14c",
+        "english_url": "https://www.letsreadasia.org/book/f15d6c7b-06ef-4991-80fa-5b13f0e07e76",
+        "original_url": "https://storyweaver.org.in/stories/6887-city-of-stories"
+      },
+      {
+        "id": "48a5a55a-e435-46c9-b86b-925d5471a475",
+        "source": "Let's Read Asia",
+        "title": "Bagaimana Cara Kita Pergi ke Sana?",
+        "english_title": "How Will We Get to the Playground?",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Choeurn Bros"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/48a5a55a-e435-46c9-b86b-925d5471a475",
+        "english_url": "https://www.letsreadasia.org/book/e4996def-3ab8-4155-a547-5652b8d9b8d4",
+        "original_url": "https://www.letsreadasia.org",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "48a71dc5-da3c-4fbf-a3b3-967409fb9e4e",
+        "source": "Let's Read Asia",
+        "title": "Serpy, si Ular",
+        "english_title": "Serpy the Snake",
+        "authors": [
+          "Rajiv Tambe"
+        ],
+        "illustrators": [
+          "Rijuta Ghate"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/48a71dc5-da3c-4fbf-a3b3-967409fb9e4e",
+        "english_url": "https://www.letsreadasia.org/book/5518495e-94a8-4211-986c-446244000e3b",
+        "original_url": "https://storyweaver.org.in/stories/8594-serpy-the-snake"
+      },
+      {
+        "id": "49726a17-f413-4dd9-9fea-95a5d533f393",
+        "source": "Let's Read Asia",
+        "title": "Di Mana Kucingnya?",
+        "english_title": "Where is the kitten?",
+        "authors": [
+          "All Children Reading - Cambodia"
+        ],
+        "illustrators": [],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/49726a17-f413-4dd9-9fea-95a5d533f393",
+        "english_url": "https://www.letsreadasia.org/book/0a578a15-b317-4d12-9d41-c11c3dd25589",
+        "original_url": "https://www.letsreadasia.org/",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "497f0023-9a86-402c-8729-f9958db26964",
+        "source": "Let's Read Asia",
+        "title": "Saatnya Bermain",
+        "english_title": "Playtime",
+        "authors": [
+          "Sanjiv Jaiswal 'Sanjay'"
+        ],
+        "illustrators": [
+          "Ajit Narayan"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/497f0023-9a86-402c-8729-f9958db26964",
+        "english_url": "https://www.letsreadasia.org/book/c97206d4-3362-4670-8443-da9f185a814b",
+        "original_url": "https://storyweaver.org.in/stories/375-playtime"
+      },
+      {
+        "id": "546f7166-9d00-409e-bfd8-9a584deab793",
+        "source": "Let's Read Asia",
+        "title": "Mereka Semua Pergi ke Ladang",
+        "english_title": "They Go to the Field",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Meng Sok Pheng"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/546f7166-9d00-409e-bfd8-9a584deab793",
+        "english_url": "https://www.letsreadasia.org/book/94f135dd-0c0e-4ad6-8b6c-c27488f3609e",
+        "original_url": "https://www.letsreadasia.org",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "5932a509-61e7-4ddd-81d5-8df9dd1ef8a7",
+        "source": "Let's Read Asia",
+        "title": "Pishi di Tengah Badai",
+        "english_title": "Pishi Caught in a Storm",
+        "authors": [
+          "Mala Kumar",
+          "Manisha Chaudhry"
+        ],
+        "illustrators": [
+          "Sangeeta Das"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/5932a509-61e7-4ddd-81d5-8df9dd1ef8a7",
+        "english_url": "https://www.letsreadasia.org/book/82c4ca88-e606-46f9-84ff-c2ae4afc8b9e",
+        "original_url": "https://storyweaver.org.in/stories/1205-pishi-caught-in-a-storm"
+      },
+      {
+        "id": "59fac1d0-47af-4495-b3e6-f76814513b3a",
+        "source": "Let's Read Asia",
+        "title": "Praca dan Satha",
+        "english_title": "Prach and Sathae",
+        "authors": [
+          "Huot Sarith"
+        ],
+        "illustrators": [
+          "Ouk Ratha",
+          "Huot Sarith"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/59fac1d0-47af-4495-b3e6-f76814513b3a",
+        "english_url": "https://www.letsreadasia.org/book/49ae1a04-2c25-447f-8de9-ccef7a5b9f8a",
+        "original_url": "https://www.letsreadasia.org"
+      },
+      {
+        "id": "5aff6c90-be05-41e2-9db5-e65e7dff7b97",
+        "source": "Let's Read Asia",
+        "title": "Bulan dan Topi",
+        "english_title": "The Moon and the Cap",
+        "authors": [
+          "Rohini Nilekani"
+        ],
+        "illustrators": [
+          "Angie",
+          "Upesh"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/5aff6c90-be05-41e2-9db5-e65e7dff7b97",
+        "english_url": "https://www.letsreadasia.org/book/2356ddb9-4072-4207-82e2-7faa3c0009da",
+        "original_url": "https://storyweaver.org.in/stories/234-the-moon-and-the-cap"
+      },
+      {
+        "id": "5b89cd49-e7a8-42e8-8cf1-c54bbbf157c2",
+        "source": "Let's Read Asia",
+        "title": "Sama atau Beda?",
+        "english_title": "Same Same or Different",
+        "authors": [
+          "Roopa Pai"
+        ],
+        "illustrators": [
+          "Rohit Kelkar"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/5b89cd49-e7a8-42e8-8cf1-c54bbbf157c2",
+        "english_url": "https://www.letsreadasia.org/book/0219f8bc-05de-4065-a207-3373211d1efe",
+        "original_url": "https://storyweaver.org.in/stories/10963-same-same-or-different"
+      },
+      {
+        "id": "5dfdffac-b3fa-4245-9c5c-4b917e911e9b",
+        "source": "Let's Read Asia",
+        "title": "Aku Bisa Memanjat",
+        "english_title": "I Can Climb!",
+        "authors": [
+          "Mini Shrinivasan"
+        ],
+        "illustrators": [
+          "Deval Maniar"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/5dfdffac-b3fa-4245-9c5c-4b917e911e9b",
+        "english_url": "https://www.letsreadasia.org/book/13f0952e-f96f-41a5-a7ca-045e642581fe",
+        "original_url": "https://storyweaver.org.in/"
+      },
+      {
+        "id": "5f2983ec-3520-4c84-9297-87afe855ce9c",
+        "source": "Let's Read Asia",
+        "title": "Kisah Seorang Penari",
+        "english_title": "A Dancer's Tale",
+        "authors": [],
+        "illustrators": [
+          "Thea Nicole de Klerk"
+        ],
+        "publisher": [
+          "Book Dash"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/5f2983ec-3520-4c84-9297-87afe855ce9c",
+        "english_url": "https://www.letsreadasia.org/book/673e9498-681e-48ef-a0f9-88692e975831",
+        "original_url": "http://bookdash.org/a-dancers-tale-by-samantha-cutler-thea-nicole-de-klerk-and-roberto-pita/"
+      },
+      {
+        "id": "5f346885-5377-4a0b-879c-0901e26db549",
+        "source": "Let's Read Asia",
+        "title": "Sang Dokter",
+        "english_title": "The Doctor",
+        "authors": [
+          "Alyson Curro"
+        ],
+        "illustrators": [],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/5f346885-5377-4a0b-879c-0901e26db549",
+        "english_url": "https://www.letsreadasia.org/book/1c9c6352-cdd1-494c-ad5d-4d18b5a376d4",
+        "original_url": "https://www.letsreadasia.org"
+      },
+      {
+        "id": "5m3oid7x6W",
+        "source": "Bloom Library",
+        "title": "Batuk Papa",
+        "english_title": "Batuk Papa",
+        "authors": [],
+        "translators": [],
+        "illustrators": [
+          "Chandra Kurniawan"
+        ],
+        "copyright_holder": "",
+        "licence": "CC-BY-SA-4.0",
+        "url": "https://bloomlibrary.org/book/5m3oid7x6W",
+        "english_url": "https://bloomlibrary.org/book/5m3oid7x6W"
+      },
+      {
+        "id": "6da62310-4260-493f-970e-fdc188eb79db",
+        "source": "Let's Read Asia",
+        "title": "Semut yang Sibuk",
+        "english_title": "Busy Ants",
+        "authors": [
+          "Kanchan Bannerjee"
+        ],
+        "illustrators": [
+          "Deepa Balsavar"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/6da62310-4260-493f-970e-fdc188eb79db",
+        "english_url": "https://www.letsreadasia.org/book/e0590697-3d7e-47c2-b3f8-c48e40570e30",
+        "original_url": "https://storyweaver.org.in/stories/1052-busy-ants"
+      },
+      {
+        "id": "6f923e37-75b3-4f68-8311-e99a99a256e3",
+        "source": "Let's Read Asia",
+        "title": "Mengapa Lebah Berdengung?",
+        "english_title": "Why Do Bees Buzz?",
+        "authors": [
+          "Nabanita Deshmukh"
+        ],
+        "illustrators": [
+          "Zainab Tambawalla"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/6f923e37-75b3-4f68-8311-e99a99a256e3",
+        "english_url": "https://www.letsreadasia.org/book/e171c8c0-970d-4486-9036-9c926026100f",
+        "original_url": "https://storyweaver.org.in/"
+      },
+      {
+        "id": "72aa28cc-af31-408a-9e1e-694984aa4088",
+        "source": "Let's Read Asia",
+        "title": "Aku Bisa Membuat Banyak Benda",
+        "english_title": "I Can Make Things!",
+        "authors": [
+          "Mini Shrinivasan"
+        ],
+        "illustrators": [
+          "Tanvee Nabar"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/72aa28cc-af31-408a-9e1e-694984aa4088",
+        "english_url": "https://www.letsreadasia.org/book/a33d2794-819c-4f83-aea2-e93ca357ee32",
+        "original_url": "https://storyweaver.org.in/"
+      },
+      {
+        "id": "73fd4422-e114-49c4-b36f-9a94fe6a3b86",
+        "source": "Let's Read Asia",
+        "title": "Bisa dan Tidak Bisa",
+        "english_title": "Can and Can't",
+        "authors": [
+          "Radha HS"
+        ],
+        "illustrators": [
+          "Ruchi Shah"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/73fd4422-e114-49c4-b36f-9a94fe6a3b86",
+        "english_url": "https://www.letsreadasia.org/book/6c1402f2-acd1-4f3c-8c57-2eccdeb4d4c1",
+        "original_url": "https://storyweaver.org.in/"
+      },
+      {
+        "id": "7477af93-a585-4afc-bdbb-2b039686b919",
+        "source": "Let's Read Asia",
+        "title": "Bunty dan Pasukan Gelembung",
+        "english_title": "Bunty and Bubbly",
+        "authors": [
+          "Sorit Gupto"
+        ],
+        "illustrators": [
+          "Sorit Gupto"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/7477af93-a585-4afc-bdbb-2b039686b919",
+        "english_url": "https://www.letsreadasia.org/book/061f9bd0-8d0d-446c-bef3-e54c3db34845",
+        "original_url": "https://storyweaver.org.in/stories/202-bunty-and-bubbly"
+      },
+      {
+        "id": "75381c85-c54b-4320-abaa-baf52c9f79df",
+        "source": "Let's Read Asia",
+        "title": "Bajaj Terbang",
+        "english_title": "The Auto That Flew",
+        "authors": [
+          "Ken Spillman"
+        ],
+        "illustrators": [
+          "Ajanta Guhathakurta"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/75381c85-c54b-4320-abaa-baf52c9f79df",
+        "english_url": "https://www.letsreadasia.org/book/fabc324d-b3a8-4682-ad57-9718f70796bc",
+        "original_url": "https://storyweaver.org.in/stories/360-the-auto-that-flew"
+      },
+      {
+        "id": "7b1c9a11-8979-41ae-a3fe-902cc421629c",
+        "source": "Let's Read Asia",
+        "title": "Balok Ajaib",
+        "english_title": "The Magic Block",
+        "authors": [
+          "Lavina Mahbubani"
+        ],
+        "illustrators": [
+          "Rohit Karandadi"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/7b1c9a11-8979-41ae-a3fe-902cc421629c",
+        "english_url": "https://www.letsreadasia.org/book/94fe8e55-bbef-4349-a373-4764571d0584",
+        "original_url": "https://storyweaver.org.in/stories/26650-the-magic-block"
+      },
+      {
+        "id": "7be7bb5c-51b2-4c34-8ca2-c53f48a3ebf0",
+        "source": "Let's Read Asia",
+        "title": "Tara Menemukan Bintang-Bintangnya.",
+        "english_title": "Tara Finds Her Stars",
+        "authors": [
+          "Mala Kumar",
+          "Manisha Chaudhry"
+        ],
+        "illustrators": [
+          "Shikha Nambiar"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/7be7bb5c-51b2-4c34-8ca2-c53f48a3ebf0",
+        "english_url": "https://www.letsreadasia.org/book/0b803965-3564-4d07-9dfe-5af5bdc58670",
+        "original_url": "https://storyweaver.org.in/stories/1219-tara-finds-her-stars"
+      },
+      {
+        "id": "7f18f39d-6620-4741-951b-3cc43f01b126",
+        "source": "Let's Read Asia",
+        "title": "Sore Musim Panas",
+        "english_title": "One Summer Afternoon",
+        "authors": [
+          "Mahipal"
+        ],
+        "illustrators": [
+          "Kanika Nair"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/7f18f39d-6620-4741-951b-3cc43f01b126",
+        "english_url": "https://www.letsreadasia.org/book/bb8dd81c-abb8-47a8-93db-aa9890f0ddd0",
+        "original_url": "https://storyweaver.org.in/stories/9388-one-summer-afternoon"
+      },
+      {
+        "id": "7f9e34ab-6a78-4ab2-8ad5-90f3303d25ee",
+        "source": "Let's Read Asia",
+        "title": "Kucing di Pegunungan Ghat",
+        "english_title": "The Cat in the Ghat!",
+        "authors": [
+          "Ambika Rao"
+        ],
+        "illustrators": [
+          "Ruchi Shah"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/7f9e34ab-6a78-4ab2-8ad5-90f3303d25ee",
+        "english_url": "https://www.letsreadasia.org/book/b99d9212-a223-454f-9ebc-5a1a1b1b986e",
+        "original_url": "https://storyweaver.org.in/stories/94-the-cat-in-the-ghat"
+      },
+      {
+        "id": "8016d7f5-6a82-4005-9723-34da618fd99a",
+        "source": "Let's Read Asia",
+        "title": "Kucing yang Bersih",
+        "english_title": "Clean Cat",
+        "authors": [
+          "Kanchan Bannerjee"
+        ],
+        "illustrators": [
+          "Deepa Balsavar"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/8016d7f5-6a82-4005-9723-34da618fd99a",
+        "english_url": "https://www.letsreadasia.org/book/f3b18538-ed08-4aa1-9a14-674eacfa69c2",
+        "original_url": "https://storyweaver.org.in/stories/1057-clean-cat"
+      },
+      {
+        "id": "80c222af-42cd-42b3-b425-47d77777b41a",
+        "source": "Let's Read Asia",
+        "title": "Apa Yang Diinginkan Socheata dan Tina?",
+        "english_title": "What Do Socheata and Tina Want?",
+        "authors": [
+          "All Children Reading - Cambodia"
+        ],
+        "illustrators": [
+          "Houy Heang"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/80c222af-42cd-42b3-b425-47d77777b41a",
+        "english_url": "https://www.letsreadasia.org/book/62d41d26-098e-4fe6-af20-e822eab411e4",
+        "original_url": "https://www.letsreadasia.org",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "8aa18f63-ed97-4dfd-80e3-b7c947331a7a",
+        "source": "Let's Read Asia",
+        "title": "Bonda dan Devi",
+        "english_title": "Devi and Bonda",
+        "authors": [
+          "Lea Shaver",
+          "Roopa Pai"
+        ],
+        "illustrators": [
+          "Jit Chowdhury"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/8aa18f63-ed97-4dfd-80e3-b7c947331a7a",
+        "english_url": "https://www.letsreadasia.org/book/b75daa98-657d-4167-925b-407abd8f88c9",
+        "original_url": "https://storyweaver.org.in/stories/15203-devi-and-bonda"
+      },
+      {
+        "id": "8cbcda5e-7a3e-4f67-b1e9-75da686b4650",
+        "source": "Let's Read Asia",
+        "title": "Bagaimana Jika?",
+        "english_title": "What If?",
+        "authors": [
+          "Hari Kumar Nair"
+        ],
+        "illustrators": [
+          "Hari Kumar Nair"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/8cbcda5e-7a3e-4f67-b1e9-75da686b4650",
+        "english_url": "https://www.letsreadasia.org/book/4edb56ac-3c0f-4456-b42d-f70eb7d396cb",
+        "original_url": "https://storyweaver.org.in/stories/880-what-if"
+      },
+      {
+        "id": "8da2948e-8a8f-43f5-bd33-7e6c6e8ecb85",
+        "source": "Let's Read Asia",
+        "title": "Para Tukang Cat Cilik",
+        "english_title": "Little Painters",
+        "authors": [
+          "Cheryl Rao"
+        ],
+        "illustrators": [
+          "Tanvi Bhat"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/8da2948e-8a8f-43f5-bd33-7e6c6e8ecb85",
+        "english_url": "https://www.letsreadasia.org/book/c94f64a6-a7b0-4117-a8c4-36752789596e",
+        "original_url": "https://storyweaver.org.in/stories/218-little-painters"
+      },
+      {
+        "id": "9130bb8c-2d49-4bc6-90a8-6b56cb33b955",
+        "source": "Let's Read Asia",
+        "title": "Tikus di Dalam Rumah",
+        "english_title": "Mouse in the House",
+        "authors": [
+          "Sowmya Rajendran"
+        ],
+        "illustrators": [
+          "Tanaya Vyas"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/9130bb8c-2d49-4bc6-90a8-6b56cb33b955",
+        "english_url": "https://www.letsreadasia.org/book/4f0efc85-110c-498c-89a5-7b163aff105f",
+        "original_url": "https://storyweaver.org.in/stories/876-mouse-in-the-house"
+      },
+      {
+        "id": "9214d84a-2a52-4568-a612-d775f3640f6d",
+        "source": "Let's Read Asia",
+        "title": "Bisakah Bebek Melompat?",
+        "english_title": "Can Duck Jump?",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Ty Sovan Panha"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/9214d84a-2a52-4568-a612-d775f3640f6d",
+        "english_url": "https://www.letsreadasia.org/book/d307e9a8-6e99-4353-bf98-3b41563d186e",
+        "original_url": "https://www.letsreadasia.org",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "92a9202b-5b40-41b5-9682-80acc1e32db2",
+        "source": "Let's Read Asia",
+        "title": "Hari Ketika Sayuran Berangkat ke Sekolah",
+        "english_title": "The Day the Vegetables Came to School",
+        "authors": [
+          "Venkatramana Gowda"
+        ],
+        "illustrators": [
+          "Padmanabh"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/92a9202b-5b40-41b5-9682-80acc1e32db2",
+        "english_url": "https://www.letsreadasia.org/book/cf552701-55ef-49b7-a9ca-dddc7bf1a9ef",
+        "original_url": "https://storyweaver.org.in/stories/678-the-day-the-vegetables-came-to-school"
+      },
+      {
+        "id": "96adb644-26c4-4403-8f37-cee10aed4b48",
+        "source": "Let's Read Asia",
+        "title": "Ciap-Ciap Tik-Tik",
+        "english_title": "Cheep Cheep Drip Drip",
+        "authors": [
+          "Lubaina Bandukwala"
+        ],
+        "illustrators": [
+          "Zainab Tambawalla"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/96adb644-26c4-4403-8f37-cee10aed4b48",
+        "english_url": "https://www.letsreadasia.org/book/9bdf9589-e1ae-45d5-b10b-eac5d79ea44c",
+        "original_url": "https://storyweaver.org.in/stories/153-cheep-cheep-drip-drip"
+      },
+      {
+        "id": "980fd3fd-9936-4ff6-bda7-83f0b0ec61b4",
+        "source": "Let's Read Asia",
+        "title": "Semuanya Makan",
+        "english_title": "Everyone Eats",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Chhoun Sambath"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/980fd3fd-9936-4ff6-bda7-83f0b0ec61b4",
+        "english_url": "https://www.letsreadasia.org/book/316a8d7c-c485-4391-879a-47f168bff0eb",
+        "original_url": "https://www.letsreadasia.org",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "9d736ca2-fa54-43bc-83f2-09f2c03245ac",
+        "source": "Let's Read Asia",
+        "title": "Pesan di Atas Pasir",
+        "english_title": "Message in the Sand",
+        "authors": [
+          "Charmaine Aserappa"
+        ],
+        "illustrators": [
+          "Roel Obemio"
+        ],
+        "publisher": [
+          "CANVAS"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/9d736ca2-fa54-43bc-83f2-09f2c03245ac",
+        "english_url": "https://www.letsreadasia.org/book/b5e4cff4-7cf5-477f-ba74-3fc57b272cc4",
+        "original_url": "http://www.canvas.ph/art-and-stories/message-in-the-sand"
+      },
+      {
+        "id": "9d82d95a-f29a-4174-81cf-7255ff59aaae",
+        "source": "Let's Read Asia",
+        "title": "Dira dan Chaku",
+        "english_title": "Dira and Chaku",
+        "authors": [
+          "Hellen Kimaro"
+        ],
+        "illustrators": [
+          "John William",
+          "Godwin Chipenya"
+        ],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/9d82d95a-f29a-4174-81cf-7255ff59aaae",
+        "english_url": "https://www.letsreadasia.org/book/29b227e2-4b81-4f78-941f-e1bb216a6a40",
+        "original_url": "https://storyweaver.org.in/stories/32404-hadithi-ya-dira-na-tembo"
+      },
+      {
+        "id": "FETv4fE0vL",
+        "source": "Bloom Library",
+        "title": "OMI SUKA MAKAN ES KREM",
+        "english_title": "OMI DYAKIN MA NYA ESKREMKE",
+        "authors": [],
+        "translators": [],
+        "illustrators": [
+          "Dhiman Sarkar"
+        ],
+        "copyright_holder": "YPMD-Tanimbar",
+        "licence": "CC-BY-4.0",
+        "url": "https://bloomlibrary.org/book/FETv4fE0vL",
+        "english_url": "https://bloomlibrary.org/book/FETv4fE0vL",
+        "credits": "Attribution Text: Reba Wants Ice Cream (English), translated by Gouri Srinidhi, based on original story রেবার আইসক্রিম খাওয়া (Bengali), written by Sultana Zakia, illustrated by Dhiman Sarkar, published by Room to Read (© Room to Read, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and "
+      },
+      {
+        "id": "LFPID8p1XQ",
+        "source": "Bloom Library",
+        "title": "Ani Dan Bola Merah Berduri",
+        "english_title": "Ani Dan Bola Merah Berduri",
+        "authors": [],
+        "translators": [],
+        "illustrators": [
+          "Chandra Kurniawan"
+        ],
+        "copyright_holder": "",
+        "licence": "CC-BY-SA-4.0",
+        "url": "https://bloomlibrary.org/book/LFPID8p1XQ",
+        "english_url": "https://bloomlibrary.org/book/LFPID8p1XQ",
+        "credits": "Original story for African context funded by All Children Reading A Grand Challenge for Development"
+      },
+      {
+        "id": "Uu3LBOdg3u",
+        "source": "Bloom Library",
+        "title": "Apa itu Keberlanjutan?",
+        "english_title": "Apa itu Keberlanjutan?",
+        "authors": [],
+        "translators": [],
+        "illustrators": [
+          "Abigail Keenan",
+          "Alex Hudson",
+          "Artur Luczka",
+          "Bill Mead",
+          "CDC",
+          "Carlo Pentimalli",
+          "Chelsey Marques",
+          "Clair XT",
+          "Cody Lannom",
+          "Daniel Funes Fuentes",
+          "David Courbit",
+          "Deepak Kumar",
+          "Dustan Woodhouse",
+          "Edward Howell",
+          "Eelko Bohti",
+          "Egor Vikhrev",
+          "Eugene Kuznetsov",
+          "Francesco Ungaro",
+          "Jason Jarrach",
+          "John Cameron",
+          "Julia Joppien",
+          "Markus Spiske",
+          "Mathian Reding",
+          "Michael Jerrard",
+          "Mukuko Studio",
+          "No Revisions",
+          "Sandy Millar",
+          "Saul Cuellar",
+          "Tadeu Jnr",
+          "Taylor Wright",
+          "Vladimir Patkach",
+          "Zbynek Burival",
+          "Zedenek Machacek",
+          "graphic by C. Hemphill",
+          "photos by R. Hennessy",
+          "J. Newcomb",
+          "D. Denali Rosenburg",
+          "Alexandra",
+          "Lasclay",
+          "J. Cotten"
+        ],
+        "copyright_holder": "Amy Lazar",
+        "licence": "CC-BY-4.0",
+        "url": "https://bloomlibrary.org/book/Uu3LBOdg3u",
+        "english_url": "https://bloomlibrary.org/book/Uu3LBOdg3u",
+        "credits": "Written in collaboration with SIL Creation Care Unit"
+      },
+      {
+        "id": "a360ca94-1c9d-4adb-8eca-eccc154711b1",
+        "source": "Let's Read Asia",
+        "title": "Petualangan Menakjubkan",
+        "english_title": "The Amazing Adventure",
+        "authors": [
+          "Kim An Arun",
+          "Kim Ann Arun"
+        ],
+        "illustrators": [
+          "Seat Sopheap"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/a360ca94-1c9d-4adb-8eca-eccc154711b1",
+        "english_url": "https://www.letsreadasia.org/book/f86c1504-8b53-4ca0-8cc8-ffa861e2986c",
+        "original_url": "https://www.letsreadasia.org"
+      },
+      {
+        "id": "a83d0de2-eb56-492a-8391-3f46fe393727",
+        "source": "Let's Read Asia",
+        "title": "Berjalan Bersama",
+        "english_title": "Walking Together",
+        "authors": [
+          "Jade Mathieson"
+        ],
+        "illustrators": [
+          "Louwrisa Blaauw"
+        ],
+        "publisher": [
+          "Book Dash"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/a83d0de2-eb56-492a-8391-3f46fe393727",
+        "english_url": "https://www.letsreadasia.org/book/19885981-eed4-4d4d-9cdb-b7568c32bc21",
+        "original_url": "http://bookdash.org/walking-together-by-louwrisa-blaauw-bianca-de-jong-and-jade-mathieson/"
+      },
+      {
+        "id": "a84462ba-6427-40e2-81d0-8d0599ea61c2",
+        "source": "Let's Read Asia",
+        "title": "Suara Apakah Itu?",
+        "english_title": "Whose Voice is This?",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Hin Koemyean"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/a84462ba-6427-40e2-81d0-8d0599ea61c2",
+        "english_url": "https://www.letsreadasia.org/book/44bef662-0c43-4cef-a0bf-22b3ac1ca2e3",
+        "original_url": "https://www.letsreadasia.org",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "aJZYiz8COt",
+        "source": "Bloom Library",
+        "title": "Enam Prinsip Pertanian Pemberi Kehidupan untuk Pertanian dan Perkebunan",
+        "english_title": "Enam Prinsip Pertanian Pemberi Kehidupan untuk Pertanian dan Perkebunan",
+        "authors": [],
+        "translators": [],
+        "illustrators": [
+          "Aaron Burden",
+          "Aime Medard Niyokiwizerwa",
+          "Arka Roy",
+          "Blake Lisk",
+          "Crystal Jo",
+          "Degleex Ganzoring",
+          "Dinesh Kag",
+          "Erda Estremera",
+          "Evergreens",
+          "Dandelions",
+          "Gabriel Meinert",
+          "Istvan Hernek",
+          "Jenny Hill",
+          "Jonathan Kemper",
+          "Maddy Baker",
+          "Markus Spiske",
+          "Neslihan Gunaydin",
+          "S N Pattenden",
+          "Shahan Khan"
+        ],
+        "copyright_holder": "Amy Lazar",
+        "licence": "CC-BY-4.0",
+        "url": "https://bloomlibrary.org/book/aJZYiz8COt",
+        "english_url": "https://bloomlibrary.org/book/aJZYiz8COt"
+      },
+      {
+        "id": "aa9abea9-5de7-4bbe-a195-260d31dc2a9a",
+        "source": "Let's Read Asia",
+        "title": "Aku Tahu",
+        "english_title": "I know",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Lom Phireak"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/aa9abea9-5de7-4bbe-a195-260d31dc2a9a",
+        "english_url": "https://www.letsreadasia.org/book/9273b9dd-02d0-43a8-96b5-233fe716c7d1",
+        "original_url": "https://www.letsreadasia.org",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "ad54d8b2-7c7d-436a-a5ac-9af54099e167",
+        "source": "Let's Read Asia",
+        "title": "Bagaimana Caranya Pesawat Bisa Terbang?",
+        "english_title": "How do Airplanes Fly?",
+        "authors": [
+          "Aditi Sarawagi"
+        ],
+        "illustrators": [
+          "Lavanya Karthik"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/ad54d8b2-7c7d-436a-a5ac-9af54099e167",
+        "english_url": "https://www.letsreadasia.org/book/986d4159-3e06-409d-b987-7663bc97f1ef",
+        "original_url": "https://storyweaver.org.in/stories/4314-how-do-aeroplanes-fly"
+      },
+      {
+        "id": "b0f60484-e1b6-46e8-bef2-f2e87ff65dbd",
+        "source": "Let's Read Asia",
+        "title": "Keriting dan Lurus",
+        "english_title": "Curly and Straight",
+        "authors": [
+          "Radha HS"
+        ],
+        "illustrators": [
+          "Ruchi Shah"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/b0f60484-e1b6-46e8-bef2-f2e87ff65dbd",
+        "english_url": "https://www.letsreadasia.org/book/fb0a080e-67c6-4307-ba4c-50cfafd39699",
+        "original_url": "https://storyweaver.org.in/stories/254-curly-and-straight"
+      },
+      {
+        "id": "b3f7ea0f-ae78-41c7-a05b-e7716cf84525",
+        "source": "Let's Read Asia",
+        "title": "Pekerjaan yang Berbeda",
+        "english_title": "Different Occupations",
+        "authors": [
+          "All Children Reading - Cambodia"
+        ],
+        "illustrators": [
+          "Meth Phearum",
+          "Chantha Rathana"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/b3f7ea0f-ae78-41c7-a05b-e7716cf84525",
+        "english_url": "https://www.letsreadasia.org/book/efc4726c-5bb5-4c6e-beda-0ccb19556a9e",
+        "original_url": "https://reader.letsreadasia.org/",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "b7e001e9-d968-413b-8619-885d96848d12",
+        "source": "Let's Read Asia",
+        "title": "Lebah Bermata Besar",
+        "english_title": "Big-Eyed Bee",
+        "authors": [
+          "Iem Tithseiha"
+        ],
+        "illustrators": [
+          "Sou Kimsan"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/b7e001e9-d968-413b-8619-885d96848d12",
+        "english_url": "https://www.letsreadasia.org/book/7152351f-6b84-4366-9b33-df12d95f3592",
+        "original_url": "https://www.letsreadasia.org"
+      },
+      {
+        "id": "b9b6d755-b828-4e05-a8fc-429b520d2be3",
+        "source": "Let's Read Asia",
+        "title": "Gagan Mengunjungi Kamal",
+        "english_title": "Gagan Visits Kamal",
+        "authors": [
+          "Shantdas Manandhar"
+        ],
+        "illustrators": [
+          "Promina Shrestha"
+        ],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/b9b6d755-b828-4e05-a8fc-429b520d2be3",
+        "english_url": "https://www.letsreadasia.org/book/a1fabbbe-fc38-4214-b070-22e57e424dea",
+        "original_url": "https://storyweaver.org.in/stories/43640-gaagan-ghar-kamal",
+        "origin_language": "नेपाली"
+      },
+      {
+        "id": "bf23528f-db34-4fff-8ae7-37c002ef7517",
+        "source": "Let's Read Asia",
+        "title": "Menyelam",
+        "english_title": "Dive!",
+        "authors": [
+          "Rajiv Eipe"
+        ],
+        "illustrators": [
+          "Rajiv Eipe"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/bf23528f-db34-4fff-8ae7-37c002ef7517",
+        "english_url": "https://www.letsreadasia.org/book/528a94a7-6e36-4c69-9129-f8e5b7363f0c",
+        "original_url": "https://storyweaver.org.in/"
+      },
+      {
+        "id": "c07bf2b4-731a-4d76-8dd7-74f383e4f2f5",
+        "source": "Let's Read Asia",
+        "title": "Di Mana Gogo?",
+        "english_title": "Where is Gogo?",
+        "authors": [
+          "Mala Kumar",
+          "Manisha Chaudhry"
+        ],
+        "illustrators": [
+          "Soumya Menon"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/c07bf2b4-731a-4d76-8dd7-74f383e4f2f5",
+        "english_url": "https://www.letsreadasia.org/book/e4c34958-d112-4c98-9415-c56b612c5cc3",
+        "original_url": "https://storyweaver.org.in/"
+      },
+      {
+        "id": "c24c33b0-03fb-4ba7-b940-d2ff3705a0c6",
+        "source": "Let's Read Asia",
+        "title": "Selamat Malam, Tinku",
+        "english_title": "Goodnight, Tinku!",
+        "authors": [
+          "Preethi Nambiar"
+        ],
+        "illustrators": [
+          "Sonal Goyal",
+          "Sumit Sakhuja"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/c24c33b0-03fb-4ba7-b940-d2ff3705a0c6",
+        "english_url": "https://www.letsreadasia.org/book/1e7a9c03-5fd8-436d-9c59-bbf9dfaafb76",
+        "original_url": "https://storyweaver.org.in/"
+      },
+      {
+        "id": "c48a5ff3-ae41-48ff-8851-62322a03d8ba",
+        "source": "Let's Read Asia",
+        "title": "Keluarga Kami",
+        "english_title": "Our Family",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Chan Pisey"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/c48a5ff3-ae41-48ff-8851-62322a03d8ba",
+        "english_url": "https://www.letsreadasia.org/book/67661587-0c1d-4fb6-9479-e1774fcde781",
+        "original_url": "https://www.letsreadasia.org",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "c4fd31a2-ba5a-4312-a73d-1bf1928dbeb9",
+        "source": "Let's Read Asia",
+        "title": "Jas Hujan Merah",
+        "english_title": "The Red Raincoat",
+        "authors": [
+          "Kiran Kasturia"
+        ],
+        "illustrators": [
+          "Zainab Tambawalla"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/c4fd31a2-ba5a-4312-a73d-1bf1928dbeb9",
+        "english_url": "https://www.letsreadasia.org/book/92e0606f-a5a4-493e-bf78-8c507e4de359",
+        "original_url": "https://storyweaver.org.in/stories/369-the-red-raincoat"
+      },
+      {
+        "id": "c734f00a-3576-4253-af75-d6db8b2d8bc7",
+        "source": "Let's Read Asia",
+        "title": "Dolly dan Payung Merah Kecilnya",
+        "english_title": "Dolly and Her Little Red Umbrella",
+        "authors": [
+          "Wong Chew Wee"
+        ],
+        "illustrators": [
+          "Wong Chew Wee"
+        ],
+        "publisher": [
+          "National Library Board",
+          "Singapore"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/c734f00a-3576-4253-af75-d6db8b2d8bc7",
+        "english_url": "https://www.letsreadasia.org/book/d9c7ff37-77af-42aa-93f0-c11e005ec92d",
+        "original_url": "https://www.nlb.gov.sg/"
+      },
+      {
+        "id": "c73dce6c-9898-41b6-85e3-4ff99e8c0071",
+        "source": "Let's Read Asia",
+        "title": "Hari yang Indah",
+        "english_title": "A Beautiful Day",
+        "authors": [
+          "Elana Bregin"
+        ],
+        "illustrators": [
+          "Liny Pelzl"
+        ],
+        "publisher": [
+          "Book Dash"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/c73dce6c-9898-41b6-85e3-4ff99e8c0071",
+        "english_url": "https://www.letsreadasia.org/book/4f793981-7e0b-467c-aad3-860e4d1a116b",
+        "original_url": "http://bookdash.org/a-beautiful-day-by-lindy-pelzl-elana-bregin-and-raeesah-vawda/"
+      },
+      {
+        "id": "c908064b-36af-4262-9b2f-e7371919f610",
+        "source": "Let's Read Asia",
+        "title": "Srot-Srot",
+        "english_title": "Sniffles",
+        "authors": [
+          "Sunando Chakraborty"
+        ],
+        "illustrators": [
+          "Sunando Chakraborty"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/c908064b-36af-4262-9b2f-e7371919f610",
+        "english_url": "https://www.letsreadasia.org/book/7b491bb0-45ab-4aae-b709-6ffd5e3bbd0f",
+        "original_url": "https://storyweaver.org.in/stories/11144-sniffles"
+      },
+      {
+        "id": "c96e0062-28a4-4284-8394-0a0e4989a86c",
+        "source": "Let's Read Asia",
+        "title": "Serunya Angka Fibonacci",
+        "english_title": "The Fascinating Fibonaccis",
+        "authors": [
+          "Shonali Chinniah"
+        ],
+        "illustrators": [
+          "Hari Kumar Nair"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/c96e0062-28a4-4284-8394-0a0e4989a86c",
+        "english_url": "https://www.letsreadasia.org/book/a501558d-e131-40e8-b422-41a3689dd138",
+        "original_url": "https://storyweaver.org.in/stories/5619-the-fascinating-fibonaccis"
+      },
+      {
+        "id": "cbd9910a-c734-4e12-982b-129813743df6",
+        "source": "Let's Read Asia",
+        "title": "Adakah yang Mirip Denganku?",
+        "english_title": "Is There Anyone Like Me?",
+        "authors": [],
+        "illustrators": [],
+        "publisher": [
+          "Book Dash"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/cbd9910a-c734-4e12-982b-129813743df6",
+        "english_url": "https://www.letsreadasia.org/book/4b86764f-c487-4b40-a9cc-559787c64774",
+        "original_url": "http://bookdash.org/is-there-anyone-like-me-by-fred-strydom-jess-jardim-wedepohl-and-stephen-wallace/"
+      },
+      {
+        "id": "cc28c88e-2443-416f-b4fc-745cb6fc6b19",
+        "source": "Let's Read Asia",
+        "title": "Aku Suka Makan",
+        "english_title": "I Like to Eat",
+        "authors": [
+          "All Children Reading - Cambodia"
+        ],
+        "illustrators": [
+          "El Huyno"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/cc28c88e-2443-416f-b4fc-745cb6fc6b19",
+        "english_url": "https://www.letsreadasia.org/book/399c1fab-482b-478a-85a2-d86467db80f8",
+        "original_url": "https://www.letsreadasia.org/",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "ccf68d78-6462-45be-96fe-c6abc093336c",
+        "source": "Let's Read Asia",
+        "title": "Bayi Gajah yang Sangat Ingin Tahu",
+        "english_title": "Curious Baby Elephant",
+        "authors": [
+          "Wiehan de Jager",
+          "Lorato Trok",
+          "Judith Baker"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "publisher": [
+          "African Storybook Initiative"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/ccf68d78-6462-45be-96fe-c6abc093336c",
+        "english_url": "https://www.letsreadasia.org/book/5dfea155-6583-4704-95e5-06df473bad86",
+        "original_url": "http://my.africanstorybook.org/"
+      },
+      {
+        "id": "d153fc11-ed3e-428e-a295-2abda6183007",
+        "source": "Let's Read Asia",
+        "title": "Jika Binatang Bisa Menari",
+        "english_title": "If Animals Could Dance",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Lom Phireak"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/d153fc11-ed3e-428e-a295-2abda6183007",
+        "english_url": "https://www.letsreadasia.org/book/45fd7133-fc1e-47ec-944b-e59cbbc782e0",
+        "original_url": "https://www.letsreadasia.org",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "d1b20787-16cb-4c05-8bea-2ffc3906daa2",
+        "source": "Let's Read Asia",
+        "title": "Sahabatku",
+        "english_title": "My Best Friend",
+        "authors": [
+          "Anupa Lal"
+        ],
+        "illustrators": [
+          "Suvidha Mistry"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/d1b20787-16cb-4c05-8bea-2ffc3906daa2",
+        "english_url": "https://www.letsreadasia.org/book/1b593592-e521-4602-b1ce-ee771f26879d",
+        "original_url": "https://storyweaver.org.in/stories/2621-my-best-friend"
+      },
+      {
+        "id": "d2751a07-c06c-43ef-93ab-066fcf75104f",
+        "source": "Let's Read Asia",
+        "title": "Gul di Luar Angkasa",
+        "english_title": "Gul in Space",
+        "authors": [
+          "Richa Jha"
+        ],
+        "illustrators": [
+          "Lavanya Karthik"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/d2751a07-c06c-43ef-93ab-066fcf75104f",
+        "english_url": "https://www.letsreadasia.org/book/e8412b75-67ca-4770-bc0f-ac5d2a2a6d63",
+        "original_url": "https://storyweaver.org.in/stories/11050-gul-in-space"
+      },
+      {
+        "id": "d34f77c1-7cab-4232-bcc1-6bc1fef2a7ef",
+        "source": "Let's Read Asia",
+        "title": "Siapakah Yang Bisa Membantuku?",
+        "english_title": "Who Can Help Me?",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "El Huyno"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/d34f77c1-7cab-4232-bcc1-6bc1fef2a7ef",
+        "english_url": "https://www.letsreadasia.org/book/1b4e5a0b-fbf6-4a81-a74b-fbc75e709690",
+        "original_url": "https://www.letsreadasia.org",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "d8a0ee76-adf4-4826-8a6a-e31193ae49c2",
+        "source": "Let's Read Asia",
+        "title": "Yoyo yang Hilang",
+        "english_title": "Lost and Found",
+        "authors": [
+          "Sukhada Rahalkar"
+        ],
+        "illustrators": [
+          "Sukhada Rahalkar"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/d8a0ee76-adf4-4826-8a6a-e31193ae49c2",
+        "english_url": "https://www.letsreadasia.org/book/67d0e322-b547-45f4-b8a7-2a831923f6af",
+        "original_url": "https://storyweaver.org.in/stories/356-lost-and-found"
+      },
+      {
+        "id": "d94904fa-e928-434b-9a54-1220e9d3980a",
+        "source": "Let's Read Asia",
+        "title": "Kami Senang Bepergian",
+        "english_title": "We Like to Visit",
+        "authors": [
+          "All Children Reading - Cambodia"
+        ],
+        "illustrators": [
+          "Meth Phearum"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/d94904fa-e928-434b-9a54-1220e9d3980a",
+        "english_url": "https://www.letsreadasia.org/book/34b484f3-3164-4ed8-b73e-f84862fe5f8d",
+        "original_url": "https://www.letsreadasia.org/",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "d9a8d904-d75e-4603-8e09-d407ee180d8f",
+        "source": "Let's Read Asia",
+        "title": "Ini dan Itu",
+        "english_title": "This and That",
+        "authors": [
+          "Radha HS"
+        ],
+        "illustrators": [
+          "Ruchi Shah"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/d9a8d904-d75e-4603-8e09-d407ee180d8f",
+        "english_url": "https://www.letsreadasia.org/book/67318437-148b-4d53-8a1c-8cc76f92226e",
+        "original_url": "https://storyweaver.org.in/stories/276-this-and-that"
+      },
+      {
+        "id": "dbea660f-6195-4a82-aa7a-679794bc8398",
+        "source": "Let's Read Asia",
+        "title": "Adik dan Kakak Laki-Laki",
+        "english_title": "Older and Younger Brother",
+        "authors": [
+          "All Children Reading - Cambodia"
+        ],
+        "illustrators": [
+          "Sorn Srey Nuch",
+          "May Sak"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/dbea660f-6195-4a82-aa7a-679794bc8398",
+        "english_url": "https://www.letsreadasia.org/book/29ee2dbf-1542-4d51-a667-3748cb93b2b0",
+        "original_url": "https://www.letsreadasia.org/",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "df5ce389-e4be-4815-81f0-f3e9f6b4157c",
+        "source": "Let's Read Asia",
+        "title": "Ketika Hujan Ikan",
+        "english_title": "The Day It Rained Fish",
+        "authors": [
+          "Ramendra Kumar"
+        ],
+        "illustrators": [
+          "Delwyn Remedios"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/df5ce389-e4be-4815-81f0-f3e9f6b4157c",
+        "english_url": "https://www.letsreadasia.org/book/ae31ac17-7afe-4b73-b8ab-36fccb869dce",
+        "original_url": "https://storyweaver.org.in/stories/2711-the-day-it-rained-fish"
+      },
+      {
+        "id": "e577ddba-45db-4816-be9e-fa7cdd8b1abd",
+        "source": "Let's Read Asia",
+        "title": "Teman-temanku",
+        "english_title": "My Friends",
+        "authors": [
+          "Rukmini Banerji"
+        ],
+        "illustrators": [
+          "Rajeev Verma 'Banjara'"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/e577ddba-45db-4816-be9e-fa7cdd8b1abd",
+        "english_url": "https://www.letsreadasia.org/book/2400aa47-b4b6-4a38-b2d4-13e3ac8a971e",
+        "original_url": "https://storyweaver.org.in/stories/376-my-friends"
+      },
+      {
+        "id": "ef2715ec-e65e-49bc-a2bc-92ec202687b3",
+        "source": "Let's Read Asia",
+        "title": "Terbang Tinggi",
+        "english_title": "Flying High",
+        "authors": [
+          "Vidya Tiware"
+        ],
+        "illustrators": [
+          "Rijuta Ghate"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/ef2715ec-e65e-49bc-a2bc-92ec202687b3",
+        "english_url": "https://www.letsreadasia.org/book/03fb649d-0870-497d-beba-4dcbf23ddf5a",
+        "original_url": "https://storyweaver.org.in/stories/839-flying-high"
+      },
+      {
+        "id": "efd19b2d-91e5-400a-979b-9e4fce33f682",
+        "source": "Let's Read Asia",
+        "title": "Ke Manakah Mereka Pergi?",
+        "english_title": "Where Do They Go?",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Chhoun Sambath"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/efd19b2d-91e5-400a-979b-9e4fce33f682",
+        "english_url": "https://www.letsreadasia.org/book/532f70af-e36a-4fcf-985e-a73c28ac162a",
+        "original_url": "https://www.letsreadasia.org",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "f4900a45-7861-4e4b-8b12-9eaf7772683d",
+        "source": "Let's Read Asia",
+        "title": "Seberapa Beratkah Berat?",
+        "english_title": "How Heavy is Heavy",
+        "authors": [
+          "Sukanya Sinha"
+        ],
+        "illustrators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/f4900a45-7861-4e4b-8b12-9eaf7772683d",
+        "english_url": "https://www.letsreadasia.org/book/9338072e-661b-4327-a69d-c456b4940ae1",
+        "original_url": "https://storyweaver.org.in/stories/28266-how-heavy-is-heavy"
+      },
+      {
+        "id": "f4b70634-bd75-4568-bd69-c26edad2e7e1",
+        "source": "Let's Read Asia",
+        "title": "Kuda Nil ingin menari",
+        "english_title": "Hippo Wants to Dance",
+        "authors": [
+          "Megan Andrews",
+          "Marisa Steyn",
+          "Sam Beckbessinger"
+        ],
+        "illustrators": [
+          "Megan Andrews"
+        ],
+        "publisher": [
+          "Book Dash"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/f4b70634-bd75-4568-bd69-c26edad2e7e1",
+        "english_url": "https://www.letsreadasia.org/book/09848550-5759-4eda-9bd6-63069729ec1d",
+        "original_url": "http://bookdash.org/"
+      },
+      {
+        "id": "f4f0b0dc-e6ae-43d5-9ad2-599057ad22c8",
+        "source": "Let's Read Asia",
+        "title": "Keinginan Dany",
+        "english_title": "What Dany Wants",
+        "authors": [
+          "All Children Reading - Cambodia"
+        ],
+        "illustrators": [
+          "May Sak"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/f4f0b0dc-e6ae-43d5-9ad2-599057ad22c8",
+        "english_url": "https://www.letsreadasia.org/book/ce5f005c-36f0-4791-996f-196160253c87",
+        "original_url": "https://www.letsreadasia.org/",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "f803d6bc-9e5e-45c9-a93b-9f0a6106d5da",
+        "source": "Let's Read Asia",
+        "title": "Mendengarkan Tubuhku",
+        "english_title": "Listen to My Body",
+        "authors": [
+          "Rohini Nilekani"
+        ],
+        "illustrators": [
+          "Angie",
+          "Upesh"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/f803d6bc-9e5e-45c9-a93b-9f0a6106d5da",
+        "english_url": "https://www.letsreadasia.org/book/e32c39d2-0173-425d-ab74-fab21f302220",
+        "original_url": "https://storyweaver.org.in/stories/40-listen-to-my-body"
+      },
+      {
+        "id": "f9fb61ea-6522-4dd3-9797-a22802dac58c",
+        "source": "Let's Read Asia",
+        "title": "Aku Tak Mendengarmu",
+        "english_title": "I Can’t Hear",
+        "authors": [
+          "All Children Reading - Cambodia"
+        ],
+        "illustrators": [
+          "Choeurn Bros"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/f9fb61ea-6522-4dd3-9797-a22802dac58c",
+        "english_url": "https://www.letsreadasia.org/book/c5cbd9ec-360f-4c9c-bf13-db9d6220bb12",
+        "original_url": "https://www.letsreadasia.org/",
+        "origin_language": "ភាសាខ្មែរ"
+      },
+      {
+        "id": "fd06ec28-8c33-483d-b8b6-d46fa35d016d",
+        "source": "Let's Read Asia",
+        "title": "Menyikat Gigi itu Enggak Asik!",
+        "english_title": "Brushing Is No Fun!",
+        "authors": [
+          "Srividhya Venkat"
+        ],
+        "illustrators": [
+          "Anupama Ajinkya Apte"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/fd06ec28-8c33-483d-b8b6-d46fa35d016d",
+        "english_url": "https://www.letsreadasia.org/book/9fef53e9-b5db-4dd8-a8b6-ae6c064edc3a",
+        "original_url": "https://storyweaver.org.in/stories/7263-brushing-is-no-fun"
+      },
+      {
+        "id": "ff0e72e6-9f5f-4ead-8a99-04fd1b8867c2",
+        "source": "Let's Read Asia",
+        "title": "Tuan Kungkang Mengantuk",
+        "english_title": "Sleepy Mr Sloth",
+        "authors": [
+          "Paul Kennedy"
+        ],
+        "illustrators": [
+          "Graham Paterson"
+        ],
+        "publisher": [
+          "Book Dash"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/ff0e72e6-9f5f-4ead-8a99-04fd1b8867c2",
+        "english_url": "https://www.letsreadasia.org/book/3695932f-f952-4eef-8b85-85a28bb1c418",
+        "original_url": "http://bookdash.org/sleepy-mr-sloth-by-paul-kennedy-nick-mulgrew-and-graham-paterson/"
+      },
+      {
+        "id": "sVwItI4U8a",
+        "source": "Bloom Library",
+        "title": "Sebuah Kejutan Spesial",
+        "english_title": "Sebuah Kejutan Spesial",
+        "authors": [],
+        "translators": [],
+        "illustrators": [
+          "Chandra Kurniawan"
+        ],
+        "copyright_holder": "",
+        "licence": "CC-BY-SA-4.0",
+        "url": "https://bloomlibrary.org/book/sVwItI4U8a",
+        "english_url": "https://bloomlibrary.org/book/sVwItI4U8a"
+      },
+      {
+        "id": "ubDAQH6mmm",
+        "source": "Bloom Library",
+        "title": "PELAJARAN BAGI SI KERA",
+        "english_title": "០៤ នអើន ក៝ប​ដាសទោក",
+        "authors": [],
+        "translators": [],
+        "illustrators": [],
+        "copyright_holder": "International Cooperation Cambodia (ICC)",
+        "licence": "CC-BY-4.0",
+        "url": "https://bloomlibrary.org/book/ubDAQH6mmm",
+        "english_url": "https://bloomlibrary.org/book/ubDAQH6mmm",
+        "credits": "Development of A Lesson for the Monkey made possible by a grant from the Canadian Embassy in Indonesia. Development of the Bunong version made possible through grants from the Finnish Evangelical Lutheran Mission and the Ministry of Foreign Affairs of Finland."
+      },
+      {
+        "id": "vhfAvBOEpU",
+        "source": "Bloom Library",
+        "title": "Apa itu perubahan iklim?",
+        "english_title": "Apa itu perubahan iklim?",
+        "authors": [],
+        "translators": [],
+        "illustrators": [
+          "Andrea Popa",
+          "Andy Bridge",
+          "Ben White",
+          "Bruno Nascimiento",
+          "Chirayu Sharma",
+          "Chris LeBoutillier",
+          "Craig Whitehead",
+          "Eyoel Kahssey",
+          "Giulia Veneziano",
+          "Hide Obara",
+          "Javardh",
+          "Julie Ricard",
+          "Kazuel",
+          "Kelly Sikkema",
+          "Landon Parenteau",
+          "Matt Palmer",
+          "Md. Hazauzzaman Himel",
+          "Monika Kubala",
+          "Motoki Tonn",
+          "NASA",
+          "Peter Burdon",
+          "Roxanne Desgagnés",
+          "Sonikka Agarwai",
+          "Souro Souvik",
+          "Thomas Dewey",
+          "Thomas Verbruggen",
+          "Wilson Szeto"
+        ],
+        "copyright_holder": "Amy Lazar",
+        "licence": "CC-BY-4.0",
+        "url": "https://bloomlibrary.org/book/vhfAvBOEpU",
+        "english_url": "https://bloomlibrary.org/book/vhfAvBOEpU",
+        "credits": "Written in collaboration with SIL Creation Care Unit"
+      }
+    ]
   }
 }
