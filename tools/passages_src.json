@@ -7204,7 +7204,7 @@
      "type": "mc",
      "options": [
       "Dia sedang sakit",
-      "Cuacanya sangat dingin di malam hari",
+      "Cuacanya sangat dingin",
       "Hotelnya tidak punya listrik",
       "Ibunya meminta begitu"
      ],
@@ -7282,7 +7282,7 @@
     ],
     [
      "Ayah berjalan dengan langkah yang kecil, dan setiap sepuluh menit kami berhenti untuk mengatur napas.",
-     "Dad walked with slow steps, and every ten minutes we stopped to catch our breath."
+     "Dad walked with small steps, and every ten minutes we stopped to catch our breath."
     ],
     [
      "Adik saya tidak suka berjalan, jadi dia bertanya terus, \"Masih jauh, tidak?\"",
@@ -7325,11 +7325,11 @@
      "sentence": 1
     },
     {
-     "q": "Mereka harus hati-hati karena tangganya basah.",
-     "en": "They had to be careful because the steps were wet.",
+     "q": "Tangga di bukit itu sudah kering waktu mereka naik.",
+     "en": "The steps on the hill were already dry when they climbed.",
      "type": "tf",
      "options": null,
-     "answer": true,
+     "answer": false,
      "words": [
       "hati-hati",
       "tangga"
@@ -7440,7 +7440,7 @@
       "Jalannya sangat basah",
       "Ada mobil besar yang berhenti",
       "Sepedanya rusak",
-      "Seekor kucing lari ke jalan"
+      "Ada hewan kecil di depan sepedanya"
      ],
      "answer": 3,
      "words": [
@@ -7675,8 +7675,8 @@
    ],
    "questions": [
     {
-     "q": "Apa rahasia tim Pak Joko, menurut beliau?",
-     "en": "What is the secret of Pak Joko's team, according to him?",
+     "q": "Menurut Pak Joko, apa yang penting untuk tim?",
+     "en": "According to Pak Joko, what matters for the team?",
      "type": "mc",
      "options": [
       "Lapangan yang besar",
@@ -7696,8 +7696,8 @@
      "type": "mc",
      "options": [
       "Umur anak",
-      "Tinggi badan",
-      "Gaji pelatih",
+      "Kekuatan badan",
+      "Sepatu yang bagus",
       "Sikap anak"
      ],
      "answer": 3,
@@ -7913,8 +7913,8 @@
      "The residents built the bridge over ten months, and the work needed a lot of effort."
     ],
     [
-     "Mulai minggu depan, jembatan itu terbuka untuk motor dan sepeda setiap hari.",
-     "From next week the bridge will be open to motorbikes and bicycles every day."
+     "Mulai minggu depan, jembatan itu juga terbuka untuk motor dan sepeda setiap hari.",
+     "From next week the bridge will also be open to motorbikes and bicycles every day."
     ],
     [
      "Penduduk berharap jalan menuju desa sebelah juga segera diperbaiki.",
@@ -7939,11 +7939,11 @@
      "sentence": 1
     },
     {
-     "q": "Kepala desa membuka jembatan itu secara resmi.",
-     "en": "The village head opened the bridge officially.",
+     "q": "Jembatan itu dibuka oleh seorang anak sekolah.",
+     "en": "The bridge was opened by a school child.",
      "type": "tf",
      "options": null,
-     "answer": true,
+     "answer": false,
      "words": [
       "resmi"
      ],
@@ -8081,7 +8081,7 @@
      "options": [
       "Sebuah cerita tentang keluarga",
       "Surat untuk teman",
-      "Satu kalimat tentang hobi",
+      "Tulisan pendek tentang hal yang dia suka",
       "Sepuluh kata baru"
      ],
      "answer": 2,
@@ -8166,8 +8166,8 @@
      "The nights here are very calm, there is no sound of cars, only the sound of animals."
     ],
     [
-     "Kalau kamu datang, bawa pakaian yang murah, karena kita akan kotor setiap hari!",
-     "If you come, bring cheap clothes, because we'll get dirty every day!"
+     "Kalau kamu datang, bawa pakaian lama, karena kita akan kotor setiap hari!",
+     "If you come, bring old clothes, because we'll get dirty every day!"
     ]
    ],
    "questions": [
@@ -8228,14 +8228,14 @@
      "sentence": 7
     },
     {
-     "q": "Mengapa Fajar harus membawa pakaian yang murah?",
-     "en": "Why must Fajar bring cheap clothes?",
+     "q": "Mengapa Fajar harus membawa pakaian lama?",
+     "en": "Why must Fajar bring old clothes?",
      "type": "mc",
      "options": [
       "Paman tidak suka baju baru",
       "Toko pakaian di desa tutup",
       "Mereka akan kotor setiap hari",
-      "Cuacanya sangat dingin di malam hari"
+      "Cuaca di sana sangat dingin"
      ],
      "answer": 2,
      "words": [
@@ -8310,7 +8310,7 @@
      "type": "mc",
      "options": [
       "Menunya sangat tebal",
-      "Harganya tidak ada",
+      "Harganya sangat tinggi",
       "Pelayannya tidak ramah",
       "Restorannya sangat gelap"
      ],
@@ -8556,7 +8556,7 @@
     ],
     [
      "Dimas masuk ke pesawat dengan napas yang cepat dan wajah yang merah.",
-     "Dimas entered the plane with quick breath and a red face."
+     "Dimas entered the plane out of breath and with a red face."
     ],
     [
      "Dia duduk di sebelah seorang pemandu wisata yang baru pulang dari tur ke Bali.",
@@ -8714,14 +8714,14 @@
    ],
    "questions": [
     {
-     "q": "Mengapa semua orang di ruang tunggu memakai masker?",
-     "en": "Why was everyone in the waiting room wearing a mask?",
+     "q": "Apa yang Arif ambil di ruang tunggu?",
+     "en": "What did Arif take in the waiting room?",
      "type": "mc",
      "options": [
-      "Itu aturan di tempat itu",
-      "Dokter sedang marah",
-      "Udara di luar sangat kotor",
-      "Mereka semua sakit gigi"
+      "Masker",
+      "Air minum",
+      "Koran",
+      "Obat"
      ],
      "answer": 0,
      "words": [
@@ -8812,7 +8812,7 @@
      "We only had time to bring mattresses, pillows and a few clothes."
     ],
     [
-     "Pada hari kedua, pertolongan pertama datang dari kampung sebelah.",
+     "Pada hari kedua, bantuan pertama datang dari kampung sebelah.",
      "On the second day, the first help came from the next village."
     ],
     [
@@ -9063,7 +9063,7 @@
     ],
     [
      "Pertama, dia memeriksa kabel dan menukarnya dengan milik adiknya.",
-     "First he checked the cable and swapped it with his sister's."
+     "First he checked the cable and swapped it with his sibling's."
     ],
     [
      "Hasilnya sama saja, jadi dia menghubungi layanan pelanggan di toko tempat dia membeli laptop itu.",
@@ -9113,7 +9113,7 @@
     },
     {
      "q": "Bagas menukar kabel laptopnya dengan milik adiknya.",
-     "en": "Bagas swapped his laptop cable with his sister's.",
+     "en": "Bagas swapped his laptop cable with his sibling's.",
      "type": "tf",
      "options": null,
      "answer": true,
@@ -9130,7 +9130,7 @@
      "options": [
       "Membeli laptop baru",
       "Menelepon pabrik",
-      "Datang langsung ke toko",
+      "Pergi sendiri ke tempat dia membeli laptop",
       "Menunggu sampai hari Rabu"
      ],
      "answer": 2,
@@ -9157,7 +9157,7 @@
      "type": "mc",
      "options": [
       "Bagas teman pemilik toko",
-      "Toko masih menjamin laptop itu",
+      "Toko masih bertanggung jawab atas laptop itu",
       "Ada hadiah dari toko",
       "Kerusakannya sangat kecil"
      ],
@@ -9323,7 +9323,7 @@
     ],
     [
      "Dua keponakan kembar Laila membawa bunga di depan pengantin, dan mereka tampak sangat rapi.",
-     "Laila's two twin nieces were in charge of carrying flowers in front of the bride and groom, and they looked very neat."
+     "Laila's two twin nieces/nephews carried flowers in front of the bride and groom, and they looked very neat."
     ],
     [
      "Kakek, yang sudah delapan puluh tahun, duduk di kursi depan dan menangis pelan ketika cucu pertamanya mengucapkan janji.",
@@ -9377,13 +9377,13 @@
     },
     {
      "q": "Apa tugas dua keponakan Laila?",
-     "en": "What was the task of Laila's two nieces?",
+     "en": "What was the task of Laila's two twin nieces/nephews?",
      "type": "mc",
      "options": [
       "Memberi kue kepada semua tamu undangan",
       "Menyanyi di depan semua tamu",
       "Mengambil foto keluarga",
-      "Membawa bunga di depan pengantin"
+      "Berjalan di depan pengantin dengan bunga"
      ],
      "answer": 3,
      "words": [
@@ -9536,7 +9536,7 @@
      "type": "mc",
      "options": [
       "Semua binatang kecil",
-      "Sungai di kota",
+      "Pohon di tepi jalan",
       "Kebun milik penduduk",
       "Hutan seperti itu"
      ],

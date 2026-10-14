@@ -10,7 +10,7 @@ words = the builder's word count (the band rule); ws_words = whitespace-separate
 tokens of the passage text, the count the app shows (report only).
 
 - **A1**: 20 passages; words/passage 67-80 (median 72.5); ws_words 66-78; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 40, tf 49
-- **A2**: 30 passages; words/passage 92-116 (median 102.0); ws_words 91-115; coverage min 0.989, median 1.000 (rule >= 0.95); linked min 0.989; questions mc 72, tf 75
+- **A2**: 30 passages; words/passage 92-117 (median 102.0); ws_words 91-116; coverage min 0.989, median 1.000 (rule >= 0.95); linked min 0.989; questions mc 72, tf 75
 - **B1**: 30 passages; words/passage 115-149 (median 130.0); ws_words 113-149; coverage min 0.992, median 1.000 (rule >= 0.93); linked min 0.992; questions mc 74, tf 76
 
 | id | lv | title | words | ws_words | coverage | linked | out-of-pack lemmas (reason) | higher-level lemmas |
@@ -82,9 +82,9 @@ tokens of the passage text, the count the app shows (report only).
 | p0065 | A2 | Perpustakaan kota | 107 | 106 | 1.000 | 1.000 | - | B1: email, pengumuman, rupiah |
 | p0066 | A2 | Wawancara dengan pelatih | 103 | 101 | 1.000 | 1.000 | - | B1: lapangan, menyalahkan |
 | p0067 | A2 | Kue kacang Nenek | 104 | 104 | 1.000 | 1.000 | - | B1: ukur |
-| p0068 | A2 | Jembatan baru | 116 | 115 | 1.000 | 1.000 | - | - |
+| p0068 | A2 | Jembatan baru | 117 | 116 | 1.000 | 1.000 | - | - |
 | p0069 | A2 | Hari pertama di sekolah baru | 104 | 102 | 1.000 | 1.000 | - | B1: pelan, ramah |
-| p0070 | A2 | Liburan di kebun Paman | 97 | 95 | 1.000 | 1.000 | - | - |
+| p0070 | A2 | Liburan di kebun Paman | 96 | 94 | 1.000 | 1.000 | - | - |
 | p0071 | B1 | Makan malam di pantai | 149 | 149 | 1.000 | 1.000 | - | - |
 | p0072 | B1 | Surat untuk Bapak Hartono | 143 | 143 | 1.000 | 1.000 | - | - |
 | p0073 | B1 | Terlambat ke bandara | 141 | 141 | 1.000 | 1.000 | - | - |
