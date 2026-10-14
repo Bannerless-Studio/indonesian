@@ -1,7 +1,7 @@
 # Indonesian A1-B1 vocab trainer
 
 A free vocabulary trainer for Indonesian, A1 through B1: 2000 words with short
-English glosses and example sentences, plus 60 short reading passages with
+English glosses and example sentences, plus 80 short reading passages with
 comprehension questions.
 
 **Live:** https://bannerless-studio.github.io/indonesian/
@@ -24,7 +24,7 @@ practice, which this app does not teach.
 - Question types: hearing a word and picking its meaning, reading a word and
   picking its meaning, seeing a meaning and picking the word, typing the word
   from its meaning, and filling a gap in a sentence.
-- **Reading passages (Read tab, inside Today):** 20 short texts each at A1,
+- **Reading passages (Read tab, inside Today):** 20 short texts at A1 and 30 each at
   A2 and B1, with comprehension questions. A level's passages unlock once
   you've learned 70% of that level's words. Tap any word in a passage for
   its gloss, including inflected and reduplicated forms and multiword
@@ -72,7 +72,7 @@ counts, seeds and further QA detail are in `tools/REPORT.md`; residual
 known issues (wrong-sense links, unlinked compounds, sensitive-content
 edge cases, and more) are tracked in `TODO.md`.
 
-The 60 reading passages (`pack/passages.json`) were written for this pack
+The 80 reading passages (`pack/passages.json`) were written for this pack
 (`"src": "gen"`) from `tools/passages_src.json`, checked by an automated QA
 pass but not by a native speaker. They enforce in-pack word coverage of at
 least 95% at A1/A2 and 93% at B1, with a level budget on how many

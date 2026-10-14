@@ -10,8 +10,8 @@ words = the builder's word count (the band rule); ws_words = whitespace-separate
 tokens of the passage text, the count the app shows (report only).
 
 - **A1**: 20 passages; words/passage 67-80 (median 72.5); ws_words 66-78; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 40, tf 49
-- **A2**: 20 passages; words/passage 93-113 (median 100.0); ws_words 92-112; coverage min 0.989, median 1.000 (rule >= 0.95); linked min 0.989; questions mc 43, tf 54
-- **B1**: 20 passages; words/passage 121-136 (median 126.5); ws_words 121-136; coverage min 0.992, median 1.000 (rule >= 0.93); linked min 0.992; questions mc 44, tf 56
+- **A2**: 30 passages; words/passage 92-116 (median 102.0); ws_words 91-115; coverage min 0.989, median 1.000 (rule >= 0.95); linked min 0.989; questions mc 72, tf 75
+- **B1**: 30 passages; words/passage 115-149 (median 130.0); ws_words 113-149; coverage min 0.992, median 1.000 (rule >= 0.93); linked min 0.992; questions mc 74, tf 76
 
 | id | lv | title | words | ws_words | coverage | linked | out-of-pack lemmas (reason) | higher-level lemmas |
 |---|---|---|---|---|---|---|---|---|
@@ -75,6 +75,26 @@ tokens of the passage text, the count the app shows (report only).
 | p0058 | B1 | Makan siang di warung Bu Ningsih | 125 | 125 | 1.000 | 1.000 | - | - |
 | p0059 | B1 | Belajar bahasa asing sebagai orang dewasa | 125 | 123 | 1.000 | 1.000 | - | - |
 | p0060 | B1 | Sepuluh tahun lagi | 130 | 130 | 1.000 | 1.000 | - | - |
+| p0061 | A2 | Pesan dari Dewi | 92 | 91 | 1.000 | 1.000 | - | - |
+| p0062 | A2 | Salju pertama | 101 | 101 | 1.000 | 1.000 | - | B1: berlibur, jaket |
+| p0063 | A2 | Naik ke bukit | 111 | 110 | 1.000 | 1.000 | - | - |
+| p0064 | A2 | Jatuh dari sepeda | 106 | 104 | 1.000 | 1.000 | - | - |
+| p0065 | A2 | Perpustakaan kota | 107 | 106 | 1.000 | 1.000 | - | B1: email, pengumuman, rupiah |
+| p0066 | A2 | Wawancara dengan pelatih | 103 | 101 | 1.000 | 1.000 | - | B1: lapangan, menyalahkan |
+| p0067 | A2 | Kue kacang Nenek | 104 | 104 | 1.000 | 1.000 | - | B1: ukur |
+| p0068 | A2 | Jembatan baru | 116 | 115 | 1.000 | 1.000 | - | - |
+| p0069 | A2 | Hari pertama di sekolah baru | 104 | 102 | 1.000 | 1.000 | - | B1: pelan, ramah |
+| p0070 | A2 | Liburan di kebun Paman | 97 | 95 | 1.000 | 1.000 | - | - |
+| p0071 | B1 | Makan malam di pantai | 149 | 149 | 1.000 | 1.000 | - | - |
+| p0072 | B1 | Surat untuk Bapak Hartono | 143 | 143 | 1.000 | 1.000 | - | - |
+| p0073 | B1 | Terlambat ke bandara | 141 | 141 | 1.000 | 1.000 | - | - |
+| p0074 | B1 | Pusing dan lemah | 137 | 137 | 1.000 | 1.000 | - | - |
+| p0075 | B1 | Setelah banjir | 136 | 135 | 1.000 | 1.000 | - | - |
+| p0076 | B1 | Grup musik sekolah | 115 | 113 | 1.000 | 1.000 | - | - |
+| p0077 | B1 | Laptop yang mati | 138 | 137 | 1.000 | 1.000 | - | - |
+| p0078 | B1 | Kota tua yang berubah | 143 | 141 | 1.000 | 1.000 | - | - |
+| p0079 | B1 | Pernikahan sepupu | 138 | 137 | 1.000 | 1.000 | - | - |
+| p0080 | B1 | Seminggu di hutan | 135 | 133 | 1.000 | 1.000 | - | - |
 
 Title words, and question/option words the budget does not count (a numeral-like
 pack word), that are out of the pack or above the passage's level (report only;
