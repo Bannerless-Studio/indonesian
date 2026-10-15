@@ -13,7 +13,6 @@ Dapatkah kau temukan BENTUK- BENTUK dan KUCING –KUCING lain?
 # s3151 story pair audit
 Ia sering kena marah Ramu, yang memandikannya.
 # s3171 story pair audit
-Apakah kau bisa membedakan beberapa macam aroma di sana?
 # s3192 story pair audit
 Apakah menurutmu mereka bisa bernyanyi?
 # s3227 story pair audit
@@ -21,13 +20,9 @@ Mengapa dia dan anak-anak lelaki itu dibeda-bedakan?
 # s3230 story pair audit
 Ceritakan juga masa depanmu.
 # s3231 story pair audit
-Beberapa tahun sekali di bulan ini kita merayakan Meak Bochea.
 # s3232 story pair audit
-Hujan mulai turun di bulan ini.
 # s3233 story pair audit
-Di bulan ini para petani sibuk mengurusi sawah ladang mereka.
 # s3237 story pair audit
-Di tahun-tahun tertentu kita merayakan Festival Air di bulan ini.
 # s3254 story pair audit
 "Tunggu dan lihatlah nanti, Meenu sayang!"
 # s3258 story pair audit
@@ -39,7 +34,6 @@ Manu memasukkan bunga-bunga itu ke dalam air.
 # s3285 story pair audit
 Atau toko buku yang kecil?
 # s3306 story pair audit
-Malam itu, mimpi Tikus dingin dan basah.
 # s3322 story pair audit
 Bagaimana ini bisa terjadi?
 # s3351 story pair audit
@@ -51,7 +45,6 @@ Dia memegang tangan Kakak.
 # s3416 story pair audit
 "Aku beruntung. Lebih baik kepalaku tertimpa kelapa daripada tertimpa gajah" pikir Chhotu.
 # s3421 story pair audit
-Di langit tinggi, mereka bersarang di antara burung-burung; Menjaga kedamaian dan ketenangan.
 # s3430 story pair audit
 Mereka membersihkan luka di perutnya.
 # s3450 story pair audit
@@ -59,7 +52,6 @@ Dia, anaknya tidak seharusnya berbuat begitu.
 # s3464 story pair audit
 Malam itu, bulan dan aku sama-sama memakai topi.
 # s3502 story pair audit
-burung-burung itu akan berkata.
 # s3509 story pair audit
 Kami bicara dengan penciuman kami.
 # s3537 story pair audit
@@ -67,19 +59,14 @@ Ia mengeluarkan beberapa lembar uang dan mengambil dua botol.
 # s3562 story pair audit
 Berapa banyak kiranya yang dapat kau hitung?
 # s3567 story pair audit
-Sekarang, organisasi Lahpai Seng Raw telah membantu ribuan orang di seluruh Myanmar.
 # s3571 story pair audit
 Sinar matahari panas sekali sehingga kepala kami rasanya mau pecah.
 # s3580 story pair audit
 Maka jika kita memerlukan air untuk minum, kita harus melindungi Pegunungan Ghats.
 # s3607 story pair audit
-Pak Guru bertanya, "Apakah anjing dan kucing itu sama?"
 # s3608 story pair audit
-Pak Guru bertanya, "Apakah anjing dan kucing itu pintar?"
 # s3609 story pair audit
-Bopha menjawab, "Anjing dan kucing itu sangat pintar."
 # s3610 story pair audit
-Pak Guru bertanya, "Apakah anjing dan kucing bisa saling bercakap-cakap?"
 # s3654 story pair audit
 Guru Raju datang menyambut mereka. "Anak pintar!"
 # s3669 story pair audit
@@ -111,13 +98,9 @@ Aku lihat Paman membantu.
 # s3768 story pair audit
 "Boleh aku pakai sekarang?" tany Manu.
 # s3778 story pair audit
-Rumahku tinggi seperti pohon di sampingnya.
 # s3779 story pair audit
-Rumahku terbuat dari kayu dan memiliki satu lantai.
 # s3781 story pair audit
-Aku selalu bermain di dalamnya.
 # s3785 story pair audit
-Jenis rumah apa tempat orang-orang membuka toko jahit?
 # s3803 story pair audit
 bagaimana satu angka berkaitan dengan angka sebelumnya?
 # s3806 story pair audit
